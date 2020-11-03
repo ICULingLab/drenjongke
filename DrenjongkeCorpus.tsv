@@ -1,0 +1,2481 @@
+#sentence id = 1					
+#text = ལྷན་རྒྱས་ཀྱི་ མཚན་ལོ་ གན་ ཞུ་བོ་ གནང་བདོ་ ལགས།					
+#trans = What is your name?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	མཚན་ལོ་	NOUN+DAT	tshen lo	name (honorific)	
+3	གན་	NOUN	gan	what	
+4	ཞུ་བོ་	VERB	zh'u bo	request	
+5	གནང་བདོ་	AUXHON	hna do	doing	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 2					
+#text = ངའི་ མིང་ བཀྲ་ཤིས་ ཨིན་ལགས།					
+#trans = My name is Tashi.					
+1	ངའི་	PRON+POSS	ngî	mine	
+2	མིང་	NOUN	mîng	name	
+3	བཀྲ་ཤིས་	PROPN	tra shi	Tashi (name) Auspicious	
+4	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 3					
+#text = ལྷན་རྒྱས་ དགུང་ལོ་ག་ཚོད་ འབོ་ལགས།					
+#trans = How old are you? What is your age?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	དགུང་ལོ་		güng lo	old are	
+3	ག་ཚོད་	MWE	ga tshö	how	
+3	འབོ་ལགས།	AUX+HON	bo la		
+					
+#sentence id = 4					
+#text = ང་ ལོ་ ༣༠ ཨིན་ ལགས།					
+#trans = I am 30 years old.					
+1	ང་	PRON	nga	I	
+2	ལོ་	NOUN	lo	year	
+3	༣༠	NUM	___	30	
+	ཨིན་	AUX	ing	be	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 5					
+#text = ལྷན་རྒྱས་  སློབ་སྦྱོངས་  ག་ན་  གནང་བདོ།					
+#trans = Where do you study?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	སློབ་སྦྱོངས་	NOUN	lopjong	study	
+3	ག་ན་	ADV	ga na	where	
+4	གནང་བདོ།	HONAUX	hnâ do	doing	
+					
+#sentence id = 6					
+#text = ང་ དྷེལ་ལི་ན་ སློབ་སྦྱོངས་ བྱ༹ས་བདོ་ ཨིན།					
+#trans = I study in Delhi					
+1	ང་	PRON	nga	I	
+2	དྷེལ་ལི་ན་	PROPN+LOC	delhi na	in Delhi	
+3	སློབ་སྦྱོངས་	NOUN	lop jöng	study	
+4	བྱ༹ས་བདོ་	ADV	b'y do	doing	
+4	ཨིན།	AUX	ing	be	
+					
+#sentence id = 7					
+#text = ལྷན་རྒྱས་ཀྱི་ དང་འདོད་  གན་  ཡོད་པོ་ ལགས།					
+#trans = What are your hobbies?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	དང་འདོད་	NOUN	d'ang död'	willingness	
+3	གན་	NOUN	gan	what	
+4	ཡོད་པོ་	AUX	yod' po	have	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 8					
+#text = དཔེ་ཆ་ སྒྲོགས་ཤད་ དགའ་ཚོར་ ཡོད་ལགས།					
+#trans = To read books.					
+1	དཔེ་ཆ་	NOUN	pe cha	religious book	
+2	སྒྲོགས་ཤད་	VERB+she	drok she	reading	
+3	དགའ་ཚོར་	ADJ	gâ tsho	joyful, cheerful	
+4	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 9					
+#text = ལྷན་རྒྱས་ཀྱི་ མ་འོངས་ པོ་ན་ འཆར་གཞི་ གན་གན་ ཡོད་པོ།					
+#trans = What are your future plans?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	མ་འོངས་	NOUN	ma öng	future	
+3	པོ་ན་	UNK	po na	___	
+4	འཆར་གཞི་	NOUN	char zhi	plan	
+5	གན་གན་	NOUN	g'an g'an	what else	
+6	ཡོད་པོ།	AUX+Q	yö po	have	
+					
+#sentence id = 10					
+#text = ང་ལོ་ མ་འོངས་པོའི་ འཆར་གཞི་ གན་ཡང་ མེད་ལགས།					
+#trans = I don't have any future plan.					
+1	ང་ལོ་	PRON+DAT	nga lo	for me	
+2	མ་འོངས་པོའི་	NOUN+ADJ	ma öng pô	near future	
+3	འཆར་གཞི་	NOUN	char zhi	plan	
+4	གན་ཡང་	NOUN	g'an yang	anything	
+5	མེད་ལགས།	NEGAUX+HON	me la	don't have	
+					
+#sentence id = 11					
+#text = ལྷན་རྒྱས་ ག་ན་ བཞུགས་པོ་ གནང་བདོ།					
+#trans = Where do you live?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ག་ན་	ADV	ga na	where?	
+3	བཞུགས་པོ་	VERB+INF	zhü po	stay (honorific)	
+4	གནང་བདོ།	VERB	hnâ do	doing	
+					
+#sentence id = 12					
+#text = ང་ སྒང་ཏོག་ན་ སྡོད་ཏོ་ ཨིན་ལགས།					
+#trans = I live in Gangtok.					
+1	ང་	PRON	nga	I	
+2	སྒང་ཏོག་ན་	PROPN+LOC	gangtok na	at Gangtok	
+3	སྡོད་ཏོ་	VERB	dö to	stay	
+4	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 13					
+#text = ལྷན་རྒྱས་ཀྱི་ མཐོ་རིམ་ སློབ་གྲྭ་ མྱོང་པོ་ ལགས།					
+#trans = Did you finish your college?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	མཐོ་རིམ་	ADJ	tho rim	higher	
+3	སློབ་གྲྭ་	NOUN	lob gr'a	school	
+4	མྱོང་པོ་	VERB+INF	nyô po	finish(honorific)	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 14					
+#text = ལགས་ ད་རེ་རང་ རྫོགས་པོ་ ཨིན།					
+#trans = Yes, I did recently.					
+1	ལགས་	INTJ	la	yes	
+2	ད་རེ་རང་	ADV	d'a  re rang	now this days	
+3	རྫོགས་པོ་	VERB+INF	dzö po	finish	
+4	ཨིན།	AUX	be		
+					
+#sentence id = 15					
+#text = སྐུ་གཟུགས་ བཟང་པོ།					
+#trans = How are you?					
+1	སྐུ་གཟུགས་	NOUN	kü z'û	body (honorific)	
+2	བཟང་པོ།	VERB+INF	zang po	good(honoric) (adjectival verb)	
+					
+#sentence id = 16					
+#text = ལེགམ་རང་ ཡོད་ལགས།					
+#trans = I am fine, thanks.					
+1	ལེགམ་རང་	ADJ+REF	lêm ra	be good	
+2	ཡོད་ལགས།	AUX+HON	yô la	be	
+					
+#sentence id = 17					
+#text = ལྷན་རྒྱས་ ག་བཞུགས་པོ་ གནང་མཁན་ འབོ་ལགས།					
+#trans = Where are you from?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ག་			g'ä	where
+4	བཞུགས་པོ་	ADV+VERB+INF	zhü po	stayed	
+5	གནང་མཁན་	AUXHON+NMLZ	hnang khen	one who is doing	
+6	འབོ་ལགས།	AUX+HON	bo la	be	
+					
+#sentence id = 18					
+#text = ང་ ག་འབི་ སྡོད་མཁན་ ཨིན་ལགས།					
+#trans = I am from Kabi.					
+1	ང་	PRON	nga	I	
+2	ག་འབི་	PROPN	g'a bi	Kabi (Kabi is place name)	
+3	སྡོད་མཁན་	VERB+NMLZ	dö khe	one who is staying	
+4	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 19					
+#text = ལྷན་རྒྱས་ཀྱི་ ཞལ་པར་ ཨང་གྱངས་ ག་ཚོད་ ཨིན་ནམ།					
+#trans = What is your phone no.?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཞལ་པར་	NOUN	zhe par	phone (honorific)	
+3	ཨང་གྱངས་	NOUN	ang g'yäng	number	
+4	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+5	ཨིན་ནམ།	AUX+Q	ing nam	be	
+					
+#sentence id = 20					
+#text = ངའི་ ཁ་པར་ ཨང་གྱངས་ ༡༢༣༤༥ ཨིན་ ལགས།					
+#trans = My phone no. is 12345.					
+1	ངའི་	PRON+POSS	ngî	mine	
+2	ཁ་པར་	NOUN	kha par	telephone	
+3	ཨང་གྱངས་	NOUN	ang g'yäng	number	
+4	༡༢༣༤༥	NUM	___	12345	
+5	ཨིན་	AUX	ing	be	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 21					
+#text = ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ལས་ཁུངས་ བྱོན་བདོ།					
+#trans = At what time do you go to office?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་ལོ་	ADJ	g'a tshod lo	how much?	
+4	ལས་ཁུངས་	NOUN	le khüng	office	
+5	བྱོན་བདོ།	VERB+do	j'on dö	coming	
+					
+#sentence id = 22					
+#text = ང་ ལས་ཁུངས་ ཆུ་ཚོད་ བཅུ་ན་ རྒྱུ་བདོ་ ཨིན་ལགས།					
+#trans = I go to office at ten o'clock.					
+1	ང་	PRON	nga	I	
+2	ལས་ཁུངས་	NOUN	le khüng	office	
+3	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+4	བཅུ་ན་	NUM+LOC	cu na	at ten	
+5	རྒྱུ་བདོ་	VERB+do	gyu do	going	
+6	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 23					
+#text = ད་ ལྷན་རྒྱས་ཀྱི་ འཆར་གཞི་ གན་ ཡོད་པོ་ ལགས།					
+#trans = what is your plan to do now?					
+1	ད་	ADV	d'a	now	
+2	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+3	འཆར་གཞི་	NOUN	char zhi	plan	
+4	གན་	NOUN	gan	what	
+5	ཡོད་པོ་	AUX+INF	yod' po	have	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 24					
+#text = གཞུང་གཡོག་གི་ དོན་ལོ་ ཞུ་ཡིག་ ཕུལ་ཤད་ མནོ་བསམ་ ཡོད་ལགས།					
+#trans = I'm thinking to submit application for govt. job.					
+1	གཞུང་གཡོག་གི་	UNK	zhüng yok g'I	because of government job/  government’s job	
+2	དོན་ལོ་	PREP	d'on lo	for	
+3	ཞུ་ཡིག་	NOUN	zh'ü yi	application, requesting letter	
+4	ཕུལ་ཤད་	VERB+she	phü she	offer	
+5	མནོ་བསམ་	NOUN	hn'ö sam	think	
+6	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 25					
+#text = ལྷན་རྒྱས་ལོ་ འབྲས་ལྗོངས་ན་ གཡོག་རྐྱབས་ཤད་ འདོད་པོ་ ཡོད་ཀ།					
+#trans = Do you have interest to do job in Sikkim?					
+1	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+2	འབྲས་ལྗོངས་ན་	PROPN+LOC	drenjong na	in sikkim	
+3	གཡོག་རྐྱབས་ཤད་	VERB	yö kyap she	for work	
+4	འདོད་པོ་	VERB+INF	dö po	desire	
+5	ཡོད་ཀ།	AUX+Q	yö ka	have	
+					
+#sentence id = 26					
+#text = ལ་ ཡོད་ལགས།					
+#trans = Yes, I do.					
+1	ལ་	INTJ	la		
+2	ཡོད་ལགས།	AUX	yô la	have	
+					
+#sentence id = 27					
+#text = ལྷན་རྒྱས་ ཕྱག་ལས་ གན་ གནང་བདོ་ ལགས།					
+#trans = What is your job?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཕྱག་ལས་	NOUN+le	ch'ä le	from his hand (honorific) (in this context ཕྱག་ལས་ mean work ) honorific word	
+3	གན་	ADJ	g'an 	what?	
+4	གནང་བདོ་	VERB+do	hnang do	doing	
+5	ལགས།	AUX+HON	la		
+					
+#sentence id = 28					
+#text = ང་ སྨན་པོ་ ཨིན་ལགས།་					
+#trans = I'm a Doctor.					
+1	ང་	PRON	nga	I	
+2	སྨན་པོ་	NOUN	hmen po	doctor	
+3	ཨིན་ལགས།་	AUX+HON	ing la	be	
+					
+#sentence id = 29					
+#text = ལྷན་རྒྱས་ ད་རེ་ ག་ན་ བཞུགས་ཡོད།					
+#trans = Where are you these days?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ད་རེ་	ADV	d'ä re	this time	
+3	ག་ན་	ADV	ga na	where?	
+4	བཞུགས་ཡོད།	VERB+AUX	zh'û yö	he/she is at home	
+					
+#sentence id = 30					
+#text = ང་ ད་རེ་ ལོན་ཌོན་ན་ ཡོད་ལགས།					
+#trans = I am in London these days.					
+1	ང་	PRON	nga	I	
+2	ད་རེ་	ADV	d'a re	these days	
+3	ལོན་ཌོན་ན་	PROPN+LOC	London nâ	in London	
+4	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 31					
+#text = ལྷན་རྒྱས་ཀྱི་ སློབ་གྲྭ་ ག་ན་ ཡོད་པོ་ ལགས།					
+#trans = Where is your school?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	སློབ་གྲྭ་	NOUN	lob gr'a	school	
+3	ག་ན་	ADV	ga na	where?	
+4	ཡོད་པོ་	AUX+INF	yod' po	have	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 32					
+#text = བཀའ་བློན་སྤུངས་ ན་ ཡོད་ལགས།					
+#trans = At Kalimpong					
+1	བཀའ་བློན་སྤུངས་	PROPN	ka 'lön pung	Kalimpong	
+2	ན་	LOC	nä	at	
+3	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 33					
+#text = ལྷན་རྒྱས་ཀྱི་ ན་བཟའ་ ལྕང་དྲགས་ འདུག ག་ ན་ལས་ བཞེས་པོ་ གནང་བོ་ ལགས།					
+#trans = Love your dress. Where did you buy it?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ན་བཟའ་	NOUN	nâ zâ	cloth (honorific)	
+3	ལྕང་དྲགས་	ADJ	cang trak	beautiful	
+4	འདུག	AUX	duk	its there	
+5	ག་ ན་	ADV	g'a nä	where	
+6	ལས་	ADV	le	from	
+7	བཞེས་པོ་	VERB+INF	zh'e po	obtain (honorific)	
+8	གནང་བོ་	AUXHON+INF	hnâ bo	do, give (honorific)	
+9	ལགས།	HON	lâ		
+					
+#sentence id = 34					
+#text = ངས་ སྒང་ཏོག་ན་ ཉོ་བོ་ ཨིན།					
+#trans = I brought from Gangtok.					
+1	ངས་	PRON+a	ngä	by me	
+2	སྒང་ཏོག་ན་	PROPN+LOC	gangtok na	at Gangtok	
+3	ཉོ་བོ་	VERB+INF	nyö bo	buying	
+4	ཨིན།	AUX	ing	be	
+					
+#sentence id = 35					
+#text = ལྷན་རྒྱས་ཀྱི་ དབུ་སྐྱ་ན་ ཚོན་བྱུགས་ཀོ་ གནང་བོ་ ལགས།					
+#trans = Did you colour your hair?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	དབུ་སྐྱ་ན་	NOUN+LOC	w'u kya na	on the hair (honorific)	
+3	ཚོན་བྱུགས་ཀོ་	VERB	tshon 'juk ko	coloring	
+4	གནང་བོ་	AUXHON+INF	hnâ bo	given (honorific)	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 36					
+#text = ལ་ ཨིན་ལགས།					
+#trans = Yes, I did.					
+1	ལ་	INTJ	la		
+2	ཨིན་ལགས།	AUX+HON	ing la	yes	
+					
+#sentence id = 37					
+#text = ངས་ ལྷན་རྒྱས་ཀྱི་ ཡབ་ཀྱི་ སྐོར་ལས་ ཧ་  མ་གོ་ མེད། ཐུགས་ སྡུག་ཀོ་ མ་གནང་།					
+#trans = I didn't know about your father so sorry.					
+1	ངས་	PRON	nga	I	
+2	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+3	ཡབ་ཀྱི་	NOUN+ki	yap ki	father’s	
+4	སྐོར་ལས་	PREP	kör le	about	
+5	ཧ་མ་གོ་	VERB+she	ha ma g'o   didn’t knowing		
+6	མེད།	NEGAUX	med	not exist	
+7	ཐུགས་	NOUN	thuk	heart (honorific)	
+8	སྡུག་ཀོ་	NOUN	dû ko	sorrow, misery, distress	
+9	མ་གནང་།	NEG+VERB	mä nang	didn't give	
+					
+#sentence id = 38					
+#text = ཁྱད་ མེད་ལགས།					
+#trans = It is OK.					
+1	ཁྱད་	NOUN	khyed	difference	
+2	མེད་ལགས།	NEGAUX+HON	med la	not exist	
+					
+#sentence id = 39					
+#text = ལྷན་རྒྱས་ ག་ན་ བྱོན་འདོད་ ཡོད་ལགས།					
+#trans = Where do you want to go?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ག་ན་	ADV	ga na	where?	
+3	བྱོན་འདོད་	VERB+do	b'yon dö	go, (honorific)	
+4	ཡོད་ལགས།	AUX	yô la	have	
+					
+#sentence id = 40					
+#text = སྤང་ཐང་ རྒྱུ་ཤད་ ཡོད་ལགས།					
+#trans = I want to go to Pangthang.					
+1	སྤང་ཐང་	PROPN	pang thang	Pangthang	
+2	རྒྱུ་ཤད་	VERB+she	gyu she	want to go	
+3	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 41					
+#text = ལྷན་རྒྱས་ཀྱི་ ན་བཟའ་ བཙོག་དྲགས་ འདུག།  ལྷན་རྒྱས་ ག་ན་ལས་ བྱོན་བོ་ གནང་བོ་ ལགས།					
+#trans = Your clothes are so dirty. Where are you coming from?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ན་བཟའ་	NOUN	nâ zâ	cloth (honorific)	
+3	བཙོག་དྲགས་	ADJ	tsok trak	dirty	
+4	འདུག།	AUX	duk	its there	
+5	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+6	ག་ན་ལས་	ADV	ga na le	where	
+7	བྱོན་བོ་	VERB+INF	j'on bö	coming (honorific)	
+8	གནང་བོ་	AUXHON+INF	hnâ bo	given (honorific)	
+9	ལགས།	HON	lâ		
+					
+#sentence id = 42					
+#text = ལ་ ཨིན་ལགས། ཞིང་ན་ གཡོག་ རྐྱབས་པ་ སོང་བོ་ ཨིན།					
+#trans = Yes, I was in field					
+1	ལ་	INTJ	la	yes	
+2	ཨིན་ལགས།	AUX+HON	ing la	be	
+3	ཞིང་ན་	ADV	zhing na	at field	
+4	གཡོག་	VERB	y'ö	work	
+5	རྐྱབས་པ་	VERB+pa	kyap pa	do	lightverb?
+6	སོང་བོ་	AUX	sông bo	went	
+7	ཨིན།	AUX	be		
+					
+#sentence id = 43					
+#text = ད་རིང་ ཉི་མའི་ ཛོའུ་ བཟོ་ག་ ལགས།					
+#trans = Should I cook today's lunch?					
+1	ད་རིང་	NOUN+ki	d'a ring gi	today	
+2	ཉི་མའི	NOUN	nyi mê	day’s	
+3	ཛོའུ་	VERB	dzoü	lunch	
+4	བཟོ་ག་	AUX	zo ga	make	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 44					
+#text = མན་ བཟོ་ མི་དགོས། ངས་ བཟོ་ཚར།					
+#trans = No, I have already cooked.					
+1	མན་	INTJ	man	not, no	
+2	བཟོ་	VERB	zo	made	
+3	མི་དགོས།	NEG+MOD	mi gö	no needed	
+4	ངས་	PRON+a	ngä	by me	
+5	བཟོ་ཚར།	AUX+tsha	zô tshä	finish	
+					
+#sentence id = 45					
+#text = ངའི་ ནོར་འཁྲུལ་ལོ་ བཟོད་གསོལ་ གནང་ན།					
+#trans = Please forgive me for my mistake.					
+1	ངའི་	PRON+POSS	ngî	mine, my	
+2	ནོར་འཁྲུལ་ལོ་	NOUN+DAT	nör thrul lo	mistake	
+3	བཟོད་གསོལ་	VERB	zô söl	asking for (forgiveness)	
+4	གནང་ན།	AUX	hnâ nâ	give	
+					
+#sentence id = 46					
+#text = ང་ལོ་ གསུང་བོ་ གནང་ལགས་ ང་ཀིས་ རོགས་རམ་ ཕུལ་ཚུགས་ ཀམ།					
+#trans = Let me know if I can be of any help.					
+1	ང་ལོ་	PRON+DAT	nga lo	for me	
+2	གསུང་བོ་	VERB	sung bö	tell, said (honorific)	
+3	གནང་ལགས་	AUX	hnä la	will do or give (honorific)	
+4	ང་ཀིས་	PRON+ki	ngai ki	by me	
+5	རོགས་རམ་	NOUN	rö ram	help	
+6	ཕུལ་ཚུགས་	VERB+MOD	phû tshü	can offer	
+7	ཀམ།	SCONJ	kam	___	
+					
+#sentence id = 47					
+#text = ངའི་ སེམས་འཆར་འདི་ གལ་སྲིད་ ང་ཅག་ འདས་པའི་ དུས་ཚོད་ ནང་ཤ་ རྒྱུ་ ཚུགས་པ་ ཅེ་ན།					
+#trans = I wish we could go back in time.					
+1	ངའི་	PRON+POSS	ngî	mine	
+2	སེམས་འཆར་འདི་	UNK	sem char di   	thinking	
+3	གལ་སྲིད་	SCONJ	g'e s'e	if	
+4	ང་ཅག་	PRON	nga cak	we	
+5	འདས་པའི་	UNK	de pe	past time	
+6	དུས་ཚོད་	NOUN	d'û tshö	time	
+7	ནང་ཤ་	PREP	nang sha	in	
+8	རྒྱུ་	VERB	gyu	go	
+9	ཚུགས་པ་	MOD+pa	tshü pâ	can do	
+10	ཅེ་ན།	UNK	ce na		
+					
+#sentence id = 48					
+#text = དེང་སང་ ཆོས་ ཡོན་ཏན་ སྦྱང་ཤད་ལོ་ འགྲོ་སོང་ ཆེ་དྲགས་ ཡོད་ལགས།					
+#trans = The education is so expensive these days.					
+1	དེང་སང་	ADV	d'ing sang	these days	
+2	ཆོས་	NOUN	chö	priest and devotee jointly	
+3	ཡོན་ཏན་	NOUN	yön tö          	knowlwdge, education qualification, study	
+4	སྦྱང་ཤད་ལོ་	VERB	byang she lo	to immerse	
+5	འགྲོ་སོང་	NOUN	dro söng	expenditure	
+5	ཆེ་དྲགས་	ADJ	che trak	big	
+6	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 49					
+#text = ལྷན་རྒྱས་ཀྱི་ སྲས་ལེགམ་ སྦོམ་ཚར་ འདུག					
+#trans = Your son has grown so big.					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	སྲས་	NOUN	se	son	
+3	ལེགམ་	ADV	lêm	good	
+4	སྦོམ་ཚར་	VERB	bom tshä	grown up	
+5	འདུག	AUX	duk	its there	
+					
+#sentence id = 50					
+#text = སྐལ་པའི་ རྒྱབ་ལས་ ལྷན་རྒྱས་ལོ་ མཇལ་སྡི་ སེམས་ ལེབ་སྟི་རང་ དགའ་ཞེ།					
+#trans = It's so nice to see you after a long.					
+1	སྐལ་པའི་	ADJ	k’e pe	long time, long gap	
+2	རྒྱབ་ལས་	PREP	gyap le	behind, after	
+3	ལྷན་རྒྱས་ལོ་	PROPN+DAT	lhan gye lo	for you (honorific)	
+4	མཇལ་སྡི་	VERB	j'e di	after meeting (honorific)	
+5	སེམས་	NOUN	sem	mind	
+6	ལེབ་སྟི་རང་	ADV	lep ti ra	too much	
+7	དགའ་ཞེ།	VERB	ga zh'e	became happy	
+					
+#sentence id = 51					
+#text = གཟིམ་པ་ བྱོན་ཤད་ ལགས།					
+#trans = Going to sleep?					
+1	གཟིམ་པ་	VERB+pa	zim pa	sleep	
+2	བྱོན་ཤད་	AUXHON+she	j'on she	will go, will come (honorific)	
+3	ལགས།	HON	lâ		
+					
+#sentence id = 52					
+#text = ལྷན་རྒྱས་ཀྱི་ ཞལ་པར་ འདི་ སྐད་ རྐྱབས་བཅུག་གེ།					
+#trans = Your phone is ringing.					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཞལ་པར་	NOUN	zhe par	phone (honorific)	
+3	འདི་	DET	di	this	
+4	སྐད་	NOUN	ke	sound	
+5	རྐྱབས་བཅུག་གེ།	VERB+UNK	kyap cu g'e	lets then do	
+					
+#sentence id = 53					
+#text = ང་ ལྷན་རྒྱས་ལོ་ ངོ་མ་ ཤེས་ལགས།					
+#trans = I can't know who you are.					
+1	ང་	PRON	nga	I	
+2	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+3	ངོ་མ་	NOUN+NEG	ngo ma	real member + neg	
+4	ཤེས་ལགས།	VERB+HON	she la	know	
+					
+#sentence id = 54					
+#text = གློག་བརྙན་ འདི་ བསད་པོ་ གནང་།					
+#trans = Switch off the TV.					
+1	གློག་བརྙན་	NOUN	lok 'nyen	video	
+2	འདི་	DET	di	this	
+3	བསད་པོ་	VERB	sad’ po       switch off/ kill		
+4	གནང་།	AUXHON	nang	give	
+					
+#sentence id = 55					
+#text = ང་ཅག་ འཕྱ༹ད་ཀེ།					
+#trans = Let's meet.					
+1	ང་ཅག་	PRON	nga cak	we	
+2	འཕྱ༹ད་ཀེ།	VERB+SUG	phye ke	lets meet	
+					
+#sentence id = 56					
+#text = བཀའ་ཆོས་ ལེགམ་ སྦྱངས་སྡེ་ ཨང་གྱངས་ ལེགམ་ ལེན་བོ་ གནང་།					
+#trans = Study well and get good marks.					
+1	བཀའ་ཆོས་	NOUN	kä chö	study, teaching	
+2	ལེགམ་	ADJ	lîm	good	
+3	སྦྱངས་སྡེ་	UNK+PREP	jang di	after learning	
+4	ཨང་གྱངས་	NOUN	ang g'yäng	number, grade	
+5	ལེགམ་	ADJ	lîm	good	
+6	ལེན་བོ་	VERB	len bo	received	
+7	གནང་།	AUXHON	nang	honorific imperative	
+					
+#sentence id = 57					
+#text = ལྷན་རྒྱས་ ཤུལ་ཅིག་ དགུག་པོ་ གནང་ཚུགས་ ཀ་ལགས།					
+#trans = Can you please wait for a while?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཤུལ་ཅིག་	ADJ	shû ci	little	
+3	དགུག་པོ་	VERB	gua' po	wait	
+4	གནང་ཚུགས་	AUXHON+MOD	hnang tshü	can do	
+5	ཀ་ལགས།	Q+HON	kâ la		
+					
+#sentence id = 58					
+#text = ང་ཅག་ ཛོའུ་ བཞེས་པ་ རྒྱུ་གེ།					
+#trans = Let's go for lunch.					
+1	ང་ཅག་	PRON	nga cak	we	
+2	ཛོའུ་	NOUN	dzoû	a lunch	
+3	བཞེས་པ་	VERB+INF	zh'e pa	to eat	
+4	རྒྱུ་གེ།	VERB+SUG	gyu ge	lets go	
+					
+#sentence id = 59					
+#text = པདྨ་ ལགས། ལྷན་རྒྱས་ཀྱིས་ ཡིག་སྣོད་༼ཕེལ༽གཟིགས་པོ་ གནང་བོ་ ལགས།					
+#trans = Pema, did you checked the file?					
+1	པདྨ་	PROPN	pe ma	lotus	
+2	ལགས།	HON	lâ	title of a person	
+3	ལྷན་རྒྱས་ཀྱིས་	PRON+POSS	lhan gye kyi	by you (honorific)	
+4	ཡིག་སྣོད་༼ཕེལ༽	NOUN	yik hnod (file)	file	
+	གཟིགས་པོ་	VERB+INF	zî po	looking	
+5	གནང་བོ་	AUXHON	hnâ bo	given (honorific)	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 60					
+#text = ད་རིང་ ང་ལོ་ ཐུགས་རྗེ་ གཟིགས་པོ་ གནང་ ཚུགས་ཀ་ ལགས། ད་རིང་ ང་ལོ་ གཡོག་གཅིག་ ཡོད།					
+#trans = Can I be excused for today as I have work today?					
+1	ད་རིང་	ADV	d'a ring	today	
+2	ང་ལོ་	PRON+DAT	nga lo	for me	
+3	ཐུགས་རྗེ་	ADJ	thuk je	kind	
+4	གཟིགས་པོ་	VERB	zi po	seen (honorific)	
+5	གནང་	AUXHON	hnang	give (honorific)	
+6	ཚུགས་ཀ་	MOD+Q	tshü ka	can you do	
+5-6	གནང་ཚུགས་	AUXHON+MOD			
+7	ཀ་ལགས།	HON	lâ		
+7-8	ལགས།	Q+HON			
+8	ད་རིང་	ADV	d'a ring	today	
+9	ང་ལོ་	PRON+DAT	nga lo	for me	
+10	གཡོག་གཅིག་	NOUN+NUM	y'ö ci	one work	
+11	ཡོད།	AUX	yô	have	
+					
+#sentence id = 61					
+#text = ད་རིང་རང་ གཡོག་འདི་ མྱོང་པོ་ གནང་།					
+#trans = Finish this work by today.					
+1	ད་རིང་རང་	ADJ+REFL	d'a ring ra	today itself	
+2	གཡོག་འདི་	NOUN+DET	yö di	this work	
+3	མྱོང་པོ་	VERB	nyô po	finish	
+4	གནང་།	AUXHON	nang	give	
+					
+#sentence id = 62					
+#text = ད་རིང་ ང་ འཛིན་གྱལ་ ལེན་ མི་ ཐོབ་པས་ ལགས།					
+#trans = I won't be able to take class today.					
+1	ད་རིང་	ADV	d'a ring	today	
+2	ང་	PRON	nga	I	
+3	འཛིན་གྱལ་	NOUN	dzin g'yal	class	
+4	ལེན་	VERB	len	receive/take	
+5	མི་	NEG	mi	not	
+6	ཐོབ་པས་	VERB	thop pe	got (it)	
+7	ལགས།	HON	lâ		
+					
+#sentence id = 63					
+#text = འཛིན་གྱལ་འདི་ གཟའ་ ཟླ་བོ་ལས་ འགོ་ བཙུག་ཤད་ ཨིན།					
+#trans = Class will starts from Monday.					
+1	འཛིན་གྱལ་འདི་	NOUN+DET	dzin g'yal di	this class	
+2	གཟའ་	NOUN	zä	weekday	
+3	ཟླ་བོ་ལས་	NOUN+le	da ö le	from Monday	
+4	འགོ་	VERB	go	beginning	
+5	བཙུག་ཤད་	NOUN	tshuk she	plan	
+6	ཨིན།	AUX	ing	be	
+					
+#sentence id = 64					
+#text = སློབ་དཔོན་གྱིས་ ལྷན་རྒྱས་ལོ་ བཀའ་གནང་ བདོ་ལགས།					
+#trans = Sir is calling you.					
+1	སློབ་དཔོན་གྱིས་	NOUN	lop pon g'yê	by the teacher	
+2	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+3	བཀའ་གནང་	VERB+HONAUX	kä nang	order (honorific)	
+4	བདོ་ལགས།	AUX+HON	do la	___	
+					
+#sentence id = 65					
+#text = ང་ཅག་ ཉིམ་གཅིག་ སྤང་ཁ་ གླིང་ཁ་ གཏང་པ་ བྱོན་ཤད་ཀྱི་ གྲ་སྒྲིག་ གནང་དགོས་ ཤད་སྦད་ ལགས།					
+#trans = We should plan for outing/picnic someday.					
+1	ང་ཅག་	PRON	nga cak	we	
+2	ཉིམ་གཅིག་	ADV	nyim ci	one day	
+3	སྤང་ཁ་	ADV	pang khâ	out side	
+4	གླིང་ཁ་	NOUN	ling kha	picnic	
+5	གཏང་པ་	VERB	tang pa	give or send	
+6	བྱོན་ཤད་ཀྱི་	VERB+she+ki	j'ön she ki	for going	
+7	གྲ་སྒྲིག་	NOUN	dr' drik	arrangment	
+8	གནང་དགོས་	VERB+MOD	hnang gö	should do, have to do	
+9	ཤད་སྦད་	she+AUX	she be	___	
+10	ལགས།	HON	lâ		
+					
+#sentence id = 66					
+#text = ང་ རོགས་རམ་ ཕུལ་ཚུགས་ ཀམ།					
+#trans = May I help you?					
+1	ང་	PRON	nga	I	
+2	རོགས་རམ་	NOUN	rö ram	help	
+3	ཕུལ་ཚུགས་	VERB+MOD	phû tshü	can offer	
+4	ཀམ།	Q	kam	(question)	
+					
+#sentence id = 67					
+#text = ལ་ མི་དགོས་ ལགས། ང་ ཅམ་ ལྟ་བདོ་ ཨིན་ལགས།					
+#trans = No thanks. I am just looking through.					
+1	ལ་	INTJ	la		
+2	མི་དགོས་	NEG+VERB	mi gö	no needed	
+3	ལགས།	HON	lâ		
+4	ང་	PRON	nga	I	
+5	ཅམ་	ADV	cam	just like that	
+6	ལྟ་བདོ་	VERB+do	ta do	watching	
+7	ཨིན་	AUX	ing	yes	
+8	ལགས།	HON	la		
+					
+#sentence id = 68					
+#text = བཞུགས་པོ་ གནང་ལགས།					
+#trans = Please sit down.					
+1	བཞུགས་པོ་	VERB	zhü po	stay (honorific)	
+2	གནང་	AUXHON	nang	give (honorific)	
+3	ལགས།	HON	la		
+					
+#sentence id = 69					
+#text = ལྷན་རྒྱས་ལོ་ ལོག་ཅན་ མཇལ་སྡི་ དགའ་དྲགས་ བྱུང་།					
+#trans = It's a pleasure to see you again.					
+1	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+2	ལོག་ཅན་	ADV	lok cê	again	
+3	མཇལ་སྡི་	VERB	jê di	meeting (honorific )	
+4	དགའ་དྲགས་	ADJ	ga trak	happy	
+5	བྱུང་།	AUX	j'üng	become, happen	
+					
+#sentence id = 70					
+#text = ལྷན་རྒྱས་ལོ་ ལོག་ཅན་ མཇལ་ཚུགས་ ཀ་ ལགས།					
+#trans = Will I see you again?					
+1	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+2	ལོག་ཅན་	ADV	lok cê	again	
+3	མཇལ་ཚུགས་	VERB+MOD	j'e tshü	meet (honorific)	
+4	ཀ་	Q	kâ	can	
+5	ལགས།	HON	lâ	___	
+					
+#sentence id = 71					
+#text = བདུན་ཕྲག་ རྒྱབ་ལས་ ལོག་ཅན་ མཇལ་གེ་ ལགས།					
+#trans = Let's meet again next week.					
+1	བདུན་ཕྲག་	NOUN	dün thrag'	week	
+2	རྒྱབ་ལས་	ADJ	gyap le	later, after	
+3	ལོག་ཅན་	ADV	lok cê	again	
+4	མཇལ་གེ་	VERB+SUG	j'e  ge	shell meet (honorific)	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 72					
+#text = པདྨ་ལོ་ ང་ཀིས་ འདྲི་བདོ་ ཞུ་གནང་།					
+#trans = Give my regards to Mr. Pema.					
+1	པདྨ་ལོ་	PROPN+DAT	pe ma lo	for pema	
+2	ང་ཀིས་	PRON+ki	ngai ki	by me	
+3	འདྲི་བདོ་	VERB+do	dr'iI do	asking	
+4	ཞུ་གནང་།	VERB+AUXHON	zh'u hnang	request	
+					
+#sentence id = 73					
+#text = འདི་ཁ་ བྱོན་ བྱི༹ན་བོ་ན་ ཐུགས་རྗེ་ཆེ།					
+#trans = Thanks for coming here.					
+1	འདི་ཁ་	ADV	di khâ	here	
+2	བྱོན་	VERB	j'on	come, (honorific)	
+3	བྱི༹ན་བོ་ན་	AUX+INF+LOC	b'yin bo na	give	
+4	ཐུགས་རྗེ་ཆེ།	MWE	thü je che	thank you	
+					
+#sentence id = 74					
+#text = ལྷན་རྒྱས་ཀྱི་ གཟིམ་ཁང་ལོ་ མི་ལག་ ག་ཚོད་ ཡོད་པོ་ ལགས།					
+#trans = How many members are there in your family?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	གཟིམ་ཁང་ལོ་	NOUN+DAT	zim khang lo	at home (honorific)	
+3	མི་ལག་	NOUN	mi lak	man power	
+4	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+5	ཡོད་པོ་	AUX+INF	yod' po	have	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 75					
+#text = ལྷན་རྒྱས་ རང་ལོ་ ཡིད་ཆེས་ ཡོད་ཀ་ ལགས།					
+#trans = Do you believe in yourself?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	རང་ལོ་	PRON+DAT	rang lo	for you, you	
+3	ཡིད་ཆེས་	VERB	yi che	believe	
+4	ཡོད་ཀ་	AUX+Q	yö ka	do you have it?	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 76					
+#text = ལྷན་རྒྱས་ ཡུལ་ འདི་ཀི་ སྐོར་ལས་ ང་ལོ་ གསུང་བྱིན་བོ་ གནང་ཤད་ལགས།					
+#trans = Can you give me an idea about this place?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཡུལ་	NOUN	ü	place	
+3	འདི་ཀི་	DET+ki	di ki	by this	
+4	སྐོར་ལས་	PREP	kör le	about	
+5	ང་ལོ་	PRON+DAT	nga lo	for me	
+6	གསུང་བྱིན་བོ་	VERB	süng b'yin bo	told me	
+7	གནང་ཤད་ལགས།	AUXHON+she+HON	hnä she la	will give (honorific)	
+					
+#sentence id = 77					
+#text = ད་རིང་ གཟའ་ གན་འབོ་ ལགས།					
+#trans = What day is it today?					
+1	ད་རིང་	NOUN	d'a ring	today	
+2	གཟའ་	NOUN	zä	weekday	
+3	གན་འབོ་	NOUN	g'an bö	what is	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 78					
+#text = ད་རིང་ གཟའ་ ཟླ་བོ་ ཨིན་ལགས།					
+#trans = Today is Monday.					
+1	ད་རིང་	NOUN	d'a ring	today	
+2	གཟའ་	NOUN	zä	weekday	
+3	ཟླ་བོ་	NOUN	da ö	moon/Monday	
+4	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 79					
+#text = ཐོ་རངས་ གཟའ་ གན་འབོ་ ལགས།					
+#trans = What day is it tomorrow?					
+1	ཐོ་རངས་	NOUN	thö rang	tomorrow	
+2	གཟའ་	NOUN	zä	weekday	
+3	གན་འབོ་	NOUN	g'an bö	what is	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 80					
+#text = ཐོ་རངས་ གཟའ་ མིག་དམར་ ཨིན་ལགས།					
+#trans = Tomorrow is Tuesday.					
+1	ཐོ་རངས་	NOUN	thö rang	tomorrow	
+2	གཟའ་	NOUN	zä	weekday	
+3	མིག་དམར་	NOUN	mik mar	Tuesday	
+4	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 81					
+#text = ལྷན་རྒྱས་ ག་ན་ བྱོན་འབོ་ གནང་བདོ་ ལགས།					
+#trans = Where are you going?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ག་ན་	ADV	ga na	where?	
+3	བྱོན་འབོ་	VERB	j'ön bo	came, go (honorific)	
+4	གནང་བདོ་	AUXHON	hna do	doing	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 82					
+#text = ང་ ཁྲོམ་ལོ་ རྒྱུ་བདོ་ ཨིན་ལགས།					
+#trans = I am going to market.					
+1	ང་	PRON	nga	I	
+2	ཁྲོམ་ལོ་	ADV	throm lo	at market	
+3	རྒྱུ་བདོ་	VERB	gyu do	going	
+4	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 83					
+#text = འདི་ གན་འབོ་ ལགས།					
+#trans = What is this?					
+1	འདི་	DET	di	this	
+2	གན་འབོ་	NOUN+AUX	g'an bö	what is	
+3	ལགས།	HON	lâ		
+					
+#sentence id = 84					
+#text = འདི་ སྨྱུ་གུ་ ཨིན་ལགས།					
+#trans = This is a pen.					
+1	འདི་	DET	di	this	
+2	སྨྱུ་གུ་	NOUN	hnyu gu	pen	
+3	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 85					
+#text = འབྲས་ལྗོངས་ ག་ན་ ཡོད་པོ་ ལགས།					
+#trans = Where is Sikkim?					
+1	འབྲས་ལྗོངས་	PROPN	drenjong	Sikkim	
+2	ག་ན་	ADV	ga na	where?	
+3	ཡོད་པོ་	AUX+INF	yod' po	have	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 86					
+#text = འདི་ རྒྱ་གར་ ནང་ཤ་ ཡོད་ལགས།					
+#trans = It's in India.					
+1	འདི་	DET	di	this	
+2	རྒྱ་གར་	PROPN	gya gar	India	
+3	ནང་ཤ་	PREP	nang sha	in	
+4	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 87					
+#text = ལྷན་རྒྱས་ཀྱི་ ཁ་བྱང་ གན་འབོ་ ལགས།					
+#trans = What is your adress?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཁ་བྱང་	NOUN	kha j'ang	address	
+3	གན་འབོ་	NOUN+AUX	g'an bö	what is	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 88					
+#text = ངའི་ ཁ་བྱང་ ཤར་ འབྲས་ལྗོངས་ སྒང་ཏོག་ ཨིན་ལགས།					
+#trans = My adress is Gangtok east Sikkim.					
+1	ངའི་	PRON+POSS	ngî	mine	
+2	ཁ་བྱང་	NOUN	kha j'ang	address	
+3	ཤར་	ADJ	shâ	east	
+4	འབྲས་ལྗོངས་	PROPN	drenjong	Sikkim	
+5	སྒང་ཏོག་	PROPN	gangtok	Gangtok	
+6	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 89					
+#text = ལྷན་རྒྱས་ ཉིན་མའི་ ཞལ་ལག་ ཆུ་ཚོད་ ག་ཚོད་ནང་ བཞེས་པོ་ གནང་བདོ་ ལགས།					
+#trans = What time do you have your lunch?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཉིན་མའི་		nyi mê	day's	
+3	ཞལ་ལག་	NOUN	zh'e lâ	meal (honorific)	
+2-3		NOUN		lunch	
+4	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+5	ག་ཚོད་ནང་	ADJ	gâ tshô nang	for how much	
+6	བཞེས་པོ་	VERB	zh'e po	eaten (honorific)	
+7	གནང་བདོ་	AUXHON	hna do	doing	
+8	ལགས།	HON	lâ		
+					
+#sentence id = 90					
+#text = ང་ ཆུ་ཚོད་ གཅིག་ན་ ཟ་བདོ་ ཨིན་ལགས།					
+#trans = I have lunch at one o'clock.					
+1	ང་	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	གཅིག་ན་	NUM+LOC	ci na	at one	
+4	ཟ་བདོ་	VERB	z'a do	having, eating	
+5	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 91					
+#text = ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་བར་ གཟིམ་ཁང་ལོ་ ལོག་བྱོན་པོ་ གནང་བདོ་ ལགས།					
+#trans = What time do you get home?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་བར་	NOUN+ba	g'a tshod bâ	till when	
+4	གཟིམ་ཁང་ལོ་	NOUN+DAT	zim khang lo	at home (honorific)	
+5	ལོག་		lok	return	
+6	བྱོན་པོ་	VERB	j'ön b'o	going back	
+7	གནང་བདོ་	AUXHON	hna do	doing	
+8	ལགས།	HON	lâ		
+					
+#sentence id = 92					
+#text = ང་ ཆུ་ཚོད་ བཞི་དང་ ཕྱེ༹་ལོ་ ལོག་ སླེབས་ཏོ་ ཨིན་ལགས།					
+#trans = I get home at four-thirty pm.					
+1	ང་	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	བཞི་དང་	NUM+CCONJ	zhi d'ang	four and	
+4	ཕྱེ༹ད་ལོ་	NUM+DAT	p'je lo	half + lo	
+5	ལོག་	VERB	lok	return	
+6	སླེབས་ཏོ་	VERB	lep to	about to reach	
+7	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 93					
+#text = ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་བར་ གཟིམ་པ་ བྱོན་བདོ་ ལགས།					
+#trans = What time do you go to bed?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་བར་	NOUN+ba	g'a tshod bâ	till when	
+4	གཟིམ་པ་	NOUN	zim pa	sleep	
+5	བྱོན་བདོ་	VERB+do	j'on dö	coming,	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 94					
+#text = ང་ ཆུ་ཚོད་ དགུ་ལོ་ ཉལ་བ་ རྒྱུ་བདོ་ ཨིན་ལགས།					
+#trans = I go to bed at nine o'clock.					
+1	ང་	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	དགུ་ལོ་	NUM+DAT	gu lo	at nine	
+4	ཉལ་བ་	NOUN	nyal wa	sleep	
+5	རྒྱུ་བདོ་	VERB	gyu do	going	
+6	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 95					
+#text = ལྷན་རྒྱས་ གན་ གསུངས་བོ་ གནང་འབོ།					
+#trans = What did you say?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	གན་	NOUN	gan	what	
+3	གསུངས་བོ་	VERB	sung bö	said ? (honorific)	
+4	གནང་འབོ།	AUXHON+Q	hnang bo	give	
+					
+#sentence id = 96					
+#text = ངས་ གན་ཡང་ མ་ལབ་ ལགས།					
+#trans = I didn't say anything.					
+1	ངས་	PRON+a	ngä	by me	
+2	གན་ཡང་	NOUN	g'an yang	anything	
+3	མ་ལབ་	NEG+VERB	mâ lap	don’t tell	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 97					
+#text = ཨོ་འདི་ གན་འབོ།					
+#trans = What is that?					
+1	ཨོ་འདི་	DET	o di	that	
+2	གན་འབོ།	NOUN+AUX	g'an bo	what is it	
+					
+#sentence id = 98					
+#text = ཨོ་འདི་ ངའི་ དེབ་ཨིན་ ལགས།					
+#trans = That is my book.					
+1	ཨོ་འདི་	DET	o di	that	
+2	ངའི་	PRON+POSS	ngî	mine	
+3	དེབ་ཨིན་	NOUN+AUX	d'ep 'ing	is a book	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 99					
+#text = ལྷན་རྒྱས་ལོ་ གན་ དགོས་པོ་ ལགས།					
+#trans = What do you want?					
+1	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+2	གན་	NOUN	gan	what	
+3	དགོས་པོ་	VERB+INF	gö po	need	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 100					
+#text = ང་ལོ་ ཆུ་,དགོས་པོ་ ཨིན་ལགས།					
+#trans = I want water.					
+1	ང་ལོ་	PRON+DAT	nga lo	for me	
+2	ཆུ་	NOUN	chu	water	
+3	དགོས་པོ་	VERB+INF	cgö po	needed	
+3	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 101					
+#text = ལྷན་རྒྱས་ ནམ་བྱོན་བོ་ གནང་བོ་ ལགས།					
+#trans = When did you come?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ནམ་བྱོན་བོ་	ADV+VERB+INF	nam j'on bo	when (you) came	
+3	གནང་བོ་	AUXHON	hnâ bo	given (honorific)	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 102					
+#text = ང་ མདང་ འོང་བོ་ ཨིན་ལགས།					
+#trans = I came yesterday.					
+1	ང་	PRON	nga	I	
+2	མདང་	ADV	däng	yesterday	
+3	འོང་བོ་	VERB	ong bo	came	
+4	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 103					
+#text = ལྷན་རྒྱས་ ག་ན་ བྱོན་བོ་ གནང་བདོ་ ལགས།					
+#trans = Where are you going?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ག་ན་	ADV	ga na	where?	
+3	བྱོན་བོ་	VERB	j'on bö	go (honorific)	
+4	གནང་བདོ་	AUXHON	hna do	doing	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 104					
+#text = ང་ དགོན་པ་ རྒྱུ་བདོ་ ཨིན་ལགས།					
+#trans = I am going to monastery.					
+1	ང་	PRON	nga	I	
+2	དགོན་པ་	NOUN	gon pä	to monastery	
+3	རྒྱུ་བདོ་	VERB	gyu do	going	
+4	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 105					
+#text = ང་ ལྷན་རྒྱས་ མཉམ་པུ་ འབྲེལ་བ་ ག་ལྟེ་ བྱ༹ས་ དགོས་ཤད་འབོ།					
+#trans = How can I get in touch with you?					
+1	ང་	PRON	nga	I	
+2	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+3	མཉམ་པུ་	PREP	hnym pu	together, with	
+4	འབྲེལ་བ་	NOUN	drel wa	relation	
+5	ག་ལྟེ་	ADV	g'a te	how	
+6	བྱ༹ས་	VERB	b'yö	do	
+7	དགོས་ཤད་འབོ།	AUX+MOD+bö	gö she bö	what needed	
+					
+#sentence id = 106					
+#text = ད་རིང་ གནམ་གཤིས་ ག་ལྟེམ་ འདུག།					
+#trans = What is the weather like today?/How is it the weather today?					
+1	ད་རིང་	ADV	d'a ring	today	
+2	གནམ་གཤིས་	NOUN	nam she	weather	
+3	ག་ལྟེམ་	ADV	g'a tem	how	
+4	འདུག།	AUX	duk	have	
+					
+#sentence id = 107					
+#text = ལེགམ་ འདུག་ལགས།					
+#trans = Yes, it is fine.					
+1	ལེགམ་	ADJ	lîm	good	
+2	འདུག་ལགས།	AUX+HON	duk la		
+					
+#sentence id = 108					
+#text = ལྷན་རྒྱས་ གན་ མཆོད་དགོས་ མནོ་འབོ།					
+#trans = What drink do you like?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	གན་	NOUN	gan	what	
+3	མཆོད་དགོས་	NOUN+go	chô gö	drink needed	
+4	མནོ་འབོ།	VERB+INF	hno bo	think	
+					
+#sentence id = 109					
+#text = ང་ ཚིག་ཇ་(ཀོ་ཕི) དགའ་ ལགས།					
+#trans = I like coffee.					
+1	ང་	PRON	nga	I	
+2	ཚིག་ཇ་(ཀོ་ཕི)	NOUN	tshek j'a (kho phi)	coffee	
+3	དགའ་	VERB	ga	like, happy, laught	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 110					
+#text = ལྷན་རྒྱས་ སྐད་རིགས་ ག་ཚོད་ མཁྱེན་བོ་ གནང་ལགས།					
+#trans = How many languages do you speak?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	སྐད་རིགས་	NOUN	ke rik	language and custom	
+3	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+4	མཁྱེན་བོ་	VERB	khyen bo	know/came to know (honorific)	
+5	གནང་ལགས།	AUXHON+HON	nang la	give (honorific)	
+					
+#sentence id = 111					
+#text = ང་ སྐད་རིགས་ གསུམ་ ཤེས་ལགས། ལྷོ་སྐད། དབྱིན་ཇི་ དང་། ཕྱུགས་སྐད།					
+#trans = I speak three languages; Bhutia, English, and Nepali.					
+1	ང་	PRON	nga	I	
+2	སྐད་རིགས་	NOUN	ke rik	language and custom	
+3	གསུམ་	NUM	sum	three	
+4	ཤེས་ལགས།	VERB+HON	she la	know	
+5	ལྷོ་སྐད།	NOUN	lho ke	Bhutia language	
+6	དབྱིན་ཇི་	NOUN+CCONJ	in j'i	English	
+7	དང་།		d'ang	and	
+7	ཕྱུགས་སྐད།	PROPN	chu ke	Nepali language	
+					
+#sentence id = 112					
+#text = ལྷན་རྒྱས་ དབྱིན་ཇི་ རྐྱབས་པོ་ གནང་ག་ ལགས།					
+#trans = Do you speak English?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	དབྱིན་ཇི་	NOUN	y'in j'i	english	
+3	རྐྱབས་པོ་	VERB	kyap po	doing	
+4	གནང་ག་	AUXHON+Q	nang ga	will do?	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 113					
+#text = ལ་ རྐྱབས་ཏོ་ ཨིན་ལགས།					
+#trans = Yes, I do.					
+1	ལ་	INTJ	la		
+2	རྐྱབས་ཏོ་	VERB	kyap to	doing	
+3	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 114					
+#text = ལྷན་རྒྱས་ ལྷོ་སྐད་ རྐྱབས་པོ་ གནང་ག་ ལགས།					
+#trans = Do you speak Bhutia?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ལྷོ་སྐད་	PROPN	lhokê	Bhutia language	
+3	རྐྱབས་པོ་	VERB	kyap po	doing	
+4	གནང་ག་	AUXHON+Q	nang ga	will do?	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 115					
+#text = ལ་ རྐྱབས་ཏོ་ ཨིན་ལགས།					
+#trans = Yes, I do.					
+1	ལ་	INTJ	la		
+2	རྐྱབས་ཏོ་	VERB	kyap to	doing	
+3	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 116					
+#text = ད་ལྟ་ ཆུ་ཚོད་ ག་ཚོད་ འབོ་ལགས།					
+#trans = What is the time, please?					
+1	ད་ལྟ་	ADV	d'a ta	now	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+4	འབོ་ལགས།	AUXQ+HON	bo la	be	
+					
+#sentence id = 117					
+#text = ད་ལྟ་ ཆུ་ཚོད་ བཅུ་སྦད་ ལགས།					
+#trans = It's ten o'clock.					
+1	ད་ལྟ་	ADV	d'a ta	now	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	བཅུ་སྦད་	NUM+AUX	cu be	its ten	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 118					
+#text = ལྷན་རྒྱས་ གསོལ་ཇ་ དགའ་ག།					
+#trans = Do you like tea?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	གསོལ་ཇ་	NOUN	sö ja	tea (honorific)	
+3	དགའ་ག།	VERB+Q	ga gä	like, happy	
+					
+#sentence id = 119					
+#text = ལ་ དགའ་ལགས།					
+#trans = Yes, I do.					
+1	ལ་	INTJ	la		
+2	དགའ་ལགས།	VERB+HON	ga la	like. happy	
+					
+#sentence id = 120					
+#text = ཉིམ་འདི་ ག་ན་ལས་ ཤར་བདོ་ ཨིན་ནམ།					
+#trans = Where does the sun rise?					
+1	ཉིམ་འདི་	NOUN+DET	nyim de	the sun	
+2	ག་ན་ལས་	ADV	ga na le	where	
+3	ཤར་བདོ་	VERB+do	shâ do	appeared, manifest	
+4	ཨིན་ནམ།	AUX+Q	ing nam	be	
+					
+#sentence id = 121					
+#text = ཉིམ་འདི་ ཤར་ཕྱོགས་ ངོས་ལས་ ཤར་བདོ་ ཨིན་ ལགས།					
+#trans = Sun rises from the east.					
+1	ཉིམ་འདི་	NOUN+DET	nyim de	the sun	
+2	ཤར་ཕྱོགས་	NOUN	shâ chok	eastern part	
+3	ངོས་ལས་	PRON+le	ng'ö le	from my side (incomplete sentence)	
+4	ཤར་བདོ་	VERB	shâ dô	appear	
+5	ཨིན་		ing	yes	
+4-5	ཤར་བདོ་		shâ dô		
+6	ལགས།	HON	lâ		
+					
+#sentence id = 122					
+#text = ཉིམ་འདི་ ག་ན་ ནུབ་ཏོ་ ཨིན་ནམ།					
+#trans = Where does the sun set?					
+1	ཉིམ་འདི་	NOUN+DET	nyim de	the sun	
+2	ག་ན་	ADV	ga na	where?	
+3	ནུབ་ཏོ་	VERB+to	nüb to	about to set	
+4	ཨིན་ནམ།	AUX+Q	ing nam be		
+					
+#sentence id = 123					
+#text = ཉིམ་འདི་ ནུབ་ཕྱོགས་ ངོས་ལོ་ ནུབ་ཏོ་ ཨིན་ལགས།					
+#trans = Sun sets in the west.					
+1	ཉིམ་འདི་	NOUN+DET	nyim de	the sun	
+2	ནུབ་ཕྱོགས་	NOUN	nub' chok	west side	
+3	ངོས་ལོ་	NOUN+DAT	ngö lo	at that side	
+4	ནུབ་ཏོ་	VERB+to	nüb to	about to set	
+5	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 124					
+#text = ང་ སྨན་འདི་ དུས་ཚོད་ ག་ཚོད་ རིང་ཀོ་ ཟ་དགོས་ཤད་ སྙམ།					
+#trans = How long do I have to take the medicine?					
+1	ང་	PRON	nga	I	
+2	སྨན་འདི་	NOUN+DET	men di	this medicine	
+3	དུས་ཚོད་	NOUN	d'û tshö	time	
+4	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+5	རིང་ཀོ་	ADJ	ring ku	long	
+6	ཟ་དགོས་ཤད་	VERB+MOD+she	z'a gö she	need to eat	
+7	སྙམ།	Q	nyam		
+					
+#sentence id = 125					
+#text = ཉིམ་ བཅུ་ ཟང་སྟེ་ ཟ་དགོས་ འདུག					
+#trans = For ten days.					
+1	ཉིམ་	NOUN	nyim	day	
+2	བཅུ་	NUM	cu	ten	
+3	ཟང་སྟེ་	UNK	z'ang te	till	
+4	ཟ་དགོས་	VERB+MOD	z'a gö	need to eat	
+5	འདུག	VERB+AUX	duk	have	
+					
+#sentence id = 126					
+#text = སྨན་འདི་ ང་ ག་ན་ལས་ ཉོས་དགོས་ ཀམ།					
+#trans = Where can I buy these medicines?					
+1	སྨན་འདི་	NOUN+DET	men di	this medicine	
+2	ང་	PRON	nga	I	
+3	ག་ན་ལས་	ADV	ga na le	from where	
+4	ཉོས་དགོས་	VERB+MOD	nyo gö	need to buy	
+5	ཀམ།	Q	kam		
+					
+#sentence id = 127					
+#text = ལྷན་རྒྱས་ཀྱིས་ སྨན་ ཚོང་ཁང་ ག་ས་ ག་ལས་ ཉོས་ཚུགས་ ལགས།					
+#trans = You can buy them from every medical store.					
+1	ལྷན་རྒྱས་ཀྱིས་	PRON+POSS	lhan gye kyi	by you (honorific)	
+2	སྨན་	NOUN	men	medicine	
+3	ཚོང་ཁང་	NOUN	tshöng khang	shop	
+4	ག་ས་	NOUN	g' a sa	every place	
+5	ག་ལས་	ADV	gâ le	from where	
+4-5	ག་ས་ ག་ལས་	MWE		wherever	
+6	ཉོས་ཚུགས་	VERB+MOD	nyö tshü	can buy	
+7	ལགས།	HON	lâ		
+					
+#sentence id = 128					
+#text = རིལ་བུ་ འདི་ ནམ་ ཟ་ དགོས་ཤད་ འབོ།					
+#trans = When should I take the pills?					
+1	རིལ་བུ་	NOUN	ri pu	pill	
+2	འདི་	DET	di	this	
+3	ནམ་	ADV	nam	when	
+4	ཟ་	VERB	z'a	eat	
+5	དགོས་ཤད་	VERB+she	gö she	need	
+6	འབོ།	AUX	bo	be	
+					
+#sentence id = 129					
+#text = ཞལ་ལག་ རྒྱབ་ལས་ རིལ་བུ་ རེ་རེ་ བཞེས་དགོས།					
+#trans = One pills each after meal.					
+1	ཞལ་ལག་	NOUN	zh'e lâ	meal (honorific)	
+2	རྒྱབ་ལས་	PREP	gyap le	behind, after	
+3	རིལ་བུ་	NOUN	ri pu	pill	
+4	རེ་རེ་	DET	re re	one each	
+5	བཞེས་དགོས།	VERB+MOD	zhe gö	should eat	
+					
+#sentence id = 130					
+#text = འདི་ ག་ཚོད་ སྦད་ལགས།					
+#trans = How much is this?					
+1	འདི་	DET	di	this	
+2	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+3	སྦད་ལགས།	AUX+HON	bed la	be	
+					
+#sentence id = 131					
+#text = ཕྱག་དཔེ་འདིའི་ རིན་གོང་འདི་ ལྔ་བརྒྱ་ ཐམ་པ་ ཨིན་ལགས།					
+#trans = This book's price is five hundreds.					
+1	ཕྱག་དཔེ་འདིའི་	NOUN+DET+POSS	chak pe dî	this book's	
+2	རིན་གོང་འདི་	NOUN+DET	rin gö di	price this	
+3	ལྔ་བརྒྱ་	NUM	nga gya	five hundred	
+4	ཐམ་པ་	NUM	tham pa		
+5	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 132					
+#text = གནས་ཚུལ་ གན་འདུག་ ལགས།					
+#trans = What is the news?					
+1	གནས་ཚུལ་	NOUN	ne tshul	news	
+2	གན་འདུག་	NOUN+AUX	g'an dü	whats there	
+3	ལགས།	HON	lâ		
+					
+#sentence id = 133					
+#text = གསརབ་ ག་རེ་ མི་འདུག་ ལགས།					
+#trans = There is nothing new.					
+1	གསརབ་	ADJ	sâp	new	
+2	ག་རེ་	NOUN	g'a re	anything	
+3	མི་འདུག་	NEG+AUX	mi duk	not there	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 134					
+#text = ང་ གནས་འདི་ མཇལ་ཚུགས་ ཀམ་ལགས།					
+#trans = Can I visit this holy place?					
+1	ང་	PRON	nga	I	
+2	གནས་འདི་	NOUN+DET	ne di	this place	
+3	མཇལ་ཚུགས་	VERB+MOD	j'e tshü	can meet (honorific)	
+4	ཀམ་ལགས།	Q+HON	kam la	___	
+					
+#sentence id = 135					
+#text = ལྷན་རྒྱས་ ནམ་ མཇལ་རུང་ མཇལ་ ཚུགས།					
+#trans = Yes, you can visit at any time.					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ནམ་	UNK	nam	when	
+3	མཇལ་རུང་	ADV+VERB	jal rüng	meet	
+4	མཇལ་ ཚུགས།	VERB+MOD	j'al tshü	can	
+					
+#sentence id = 136					
+#text = ཡུལ་སྐོར་ སྤྲོ་འཆམ་ ལས་ཁུངས་ འདི་ ག་ན་ ཡོད་པོ་ལགས།					
+#trans = Where is the tourism office?					
+1	ཡུལ་སྐོར་	NOUN	ü kör	traveler, tour	
+2	སྤྲོ་འཆམ་	NOUN	tro cham	happy dance	
+3	ལས་ཁུངས་	NOUN	le khüng	office	
+4	འདི་	DET	di	this	
+5	ག་ན་	ADV	ga na	where?	
+6	ཡོད་པོ་ལགས།	AUX+INF+HON	yö po la	exists	
+					
+#sentence id = 137					
+#text = སྒང་ཏོག་ ཁྲོམ་ནང་ལོ་ ཡོད་ལགས།					
+#trans = It is in Gangtok market.					
+1	སྒང་ཏོག་	PROPN	gangtok	Gangtok	
+2	ཁྲོམ་ནང་ལོ་	NOUN+DAT	thr'om nä lo	in the market	
+3	ཡོད་ལགས།	AUX+HON	yô la	is / exist	
+					
+#sentence id = 138					
+#text = དགོན་པ་ སླེབས་པ་ལོ་ དུས་ཚོད་ ག་ཚོད་ དགོས་ཤད་ ལགས།					
+#trans = How long does it take time to reach monastery?					
+1	དགོན་པ་	NOUN	gon po	monastery	
+2	སླེབས་པ་ལོ་	VERB+pa+DAT	leb pä lo	reach pa at	
+3	དུས་ཚོད་	NOUN	d'û tshö	time	
+4	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+5	དགོས་ཤད་	VERB+she	gö she	need	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 139					
+#text = སྐར་མ་ བཅུ་ འདེམ་ཅིག་ དགོས་ལགས།					
+#trans = It will take nearly ten minutes.					
+1	སྐར་མ་	NOUN	kar ma/ kâm	minute/star	
+2	བཅུ་	NUM	cü	ten	
+3	འདེམ་ཅིག་	PREP	dem cik	about	
+4	དགོས་ལགས།	VERB+HON	gö la	need (honorific)	
+					
+#sentence id = 140					
+#text = ཐམས་ཅད་ལས་ མྱུར་ལམ་ འདི་རང་ ཉ།					
+#trans = Is this the shortest way?					
+1	ཐམས་ཅད་ལས་	NOUN+le	tham ce le	from every one	
+2	མྱུར་ལམ་	ADJ	nyur lam	quick, fast	
+3	འདི་རང་	DET	di rang	this	
+4	ཉ།	Q	nya		
+					
+#sentence id = 141					
+#text = ལགས་ཨིན། ཐམས་ཅད་ལས་ མྱུར་ལམ་ འདི་རང་ སྦད་ལགས།					
+#trans = Yes, this is the shortest way.					
+1	ལགས་ཨིན།	INTJ	la 'ing	yes (honorific)	
+2	ཐམས་ཅད་ལས་	NOUN+le	tham ce le	from every one	
+3	མྱུར་ལམ་	ADJ	nyur lam	quick, fast	
+4	འདི་རང་	DET	di rang	this	
+5	སྦད་ལགས།	AUX+HON	bed la	be	
+					
+#sentence id = 142					
+#text = ལྷན་རྒྱས་ ཕྱི༹་རུ་ སྐར་མ་ གྱངས་ ཚུགས་ ཀ་  ལགས།					
+#trans = Can you count stars at night?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཕྱི༹་རུ་	NOUN	phy'ir'ü	at night	
+3	སྐར་མ་	NOUN	kar ma/ kâm	minute/star	
+4	གྱངས་	VERB	g'yang	count	
+5	ཚུགས་	MOD	tshü	can	
+6	ཀ་	Q	kâ		
+7	ལགས།	HON	la		
+					
+#sentence id = 143					
+#text = མི་ཚུགས་ ལགས།					
+#trans = No, I don't.					
+1	མི་ཚུགས་	NEG+MOD	mi tshü	can't	
+2	ལགས།	HON	lâ		
+					
+#sentence id = 144					
+#text = ལྷན་རྒྱས་ བྱོན་བོ་ གནང་ཤད།					
+#trans = Are you going?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	བྱོན་བོ་	VERB	j'on bö	went (honorific)	
+3	གནང་ཤད།	AUXHON+she	hnang she	will do	
+					
+#sentence id = 145					
+#text = ལྷན་རྒྱས་ཀྱི་ ཐུགས་བསམ་ གན་ཡོད།					
+#trans = what is your opinion?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཐུགས་བསམ་	NOUN	thuk sam	thought (honorific)	
+3	གན་ཡོད།	NOUN+AUX	gan yö	what is ?	
+					
+#sentence id = 146					
+#text = ལྷན་རྒྱས་ ནམ་ སྐུ་གཟུགས་ བསིལ་བོ་ གནང་ཤད་ ལགས།					
+#trans = when will you take a bath?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ནམ་	ADV	nam	when	
+3	སྐུ་གཟུགས་	NOUN	kü z'û	body (honorific)	
+4	བསིལ་བོ་	VERB	se bo	wash (honorific)	
+5	གནང་ཤད་	AUXHON+she	nang she	will do	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 147					
+#text = ལྷན་རྒྱས་ ཞལ་ སྐྱེམས་པོ་ མེད་ཀ་ ལགས།					
+#trans = Aren't you feeling hungry?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཞལ་	NOUN	zh'ê	face (honorific), mouth	
+3	སྐྱེམས་པོ་	VERB+INF	kyem po	thirsty (honorific)	
+4	མེད་ཀ་	NEGAUX+Q	me ka	don't you have	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 148					
+#text = ལྷན་རྒྱས་ལོ་ ཐོ་རངས་ སློབ་གྲྭ་ ཡོད་ཀ་ ལགས།					
+#trans = Do you have school tomorrow?					
+1	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+2	ཐོ་རངས་	ADV	thö rang	tomorrow	
+3	སློབ་གྲྭ་	NOUN	lob gr'a	school	
+4	ཡོད་ཀ་	AUX+Q	yö ka	do you have it?	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 149					
+#text = ལྷན་རྒྱས་ གན་ བྱ༹ས་ ཕྱི༹ས་པོ་ ལགས།					
+#trans = Why are you late?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	གན་བྱ༹ས་	ADV	g'an b'yä	why	
+3	ཕྱི༹ས་པོ་	ADJ	phy'ipo	late	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 150					
+#text = ལྷན་རྒྱས་ཀྱི་ གཉིད་ལམ་ གན་ གཟིགས་པོ་ ལགས།					
+#trans = What did you dream about?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	གཉིད་ལམ་	NOUN	nyi lam	dream	
+3	གན་	NOUN	gan	what	
+4	གཟིགས་པོ་	VERB+INF	zi po	seen (honorific)	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 151					
+#text = ལྷན་རྒྱས་ཀྱི་ ན་བཟའ་ ནམ་ བརྗེ་འབོ་ ལགས།					
+#trans = When did you change your dress?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ན་བཟའ་	NOUN	nâ zâ	cloth (honorific)	
+3	ནམ་	ADV	nam	when	
+4	བརྗེ་འབོ་	VERB+AUX	je bo	change	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 152					
+#text = ལྷན་རྒྱས་ཀྱི་ ཡབ་ཀྱིས་ ཁྲོམ་ན་ལས་ གན་ བསྣམ་བྱོན་ འབོ?					
+#trans = What did your father bring from the market?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཡབ་ཀྱིས་	NOUN+kye	yab kye	by father	
+3	ཁྲོམ་ན་ལས་	NOUN+le	thr'om nä le	from market	
+4	གན་	NOUN	gan	what	
+5	བསྣམ་	VERB	nam	bring (honorific)	
+6	བྱོན་		j'on	come (honorific)	
+7	འབོ?		bo		
+					
+#sentence id = 153					
+#text = ལྷན་རྒྱས་ ངའི་ ཕྱག་དཔེ་ གཟིགས་པོ་ གནང་བོ།					
+#trans = Did you see my book?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ངའི་	PRON+POSS	ngî	mine	
+3	ཕྱག་དཔེ་	NOUN	chak p'e	book (honorific)	
+4	གཟིགས་པོ་	VERB	zi po	seen (honorific)	
+5	གནང་བོ།	AUXHON+INF	hnang bo	given	
+					
+#sentence id = 154					
+#text = ལྷན་རྒྱས་ཀྱི་ ཐུགས་བསམ་ན་ ད་རིང་ ཆརབ་ རྐྱབས་ཀ་ ལགས།					
+#trans = Do you think that it will rain today?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཐུགས་བསམ་ན་	NOUN+LOC	thuk sam na	on your mind	
+3	ད་རིང་	ADV	d'a ring	today	
+4	ཆརབ་	NOUN	châp	rain	
+5	རྐྱབས་ཀ་	VERB+Q	kyap ka	do?	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 155					
+#text = འོ་བརྒྱལ་རུང་ ལྷན་རྒྱས་ ང་ལོ་ ཆུ་ཅིག་ བསྣམ་བྱོན་ ཅིག།					
+#trans = Could you please bring water for me?					
+1	འོ་བརྒྱལ་རུང་	INTJ	o gyä rung	trouble, any kind of hardship	
+2	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+3	ང་ལོ་	PRON	nga lo	for me	
+4	ཆུ་ཅིག་	NOUN	chu ci	water	
+5	བསྣམ་བྱོན་	VERB	nam j'on	bring + come(honorific)	
+6	ཅིག།	IMP	cik		
+					
+#sentence id = 156					
+#text = ལྷན་རྒྱས་ཀྱི་ དགའ་ཤོས་ མེ་ཏོག་འདི་ ག་འདི་ འབོ་ལགས།					
+#trans = What is your favourite flower?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	དགའ་ཤོས་	ADJ	ga shö	happiest	
+3	མེ་ཏོག་འདི་	NOUN+DET	me tok di	this flower	
+4	ག་འདི་	NOUN	g'a di	which	
+5	འབོ་ལགས།	AUXQ+HON	bo la		
+					
+#sentence id = 157					
+#text = ལྷན་རྒྱས་ ཀྭ་ཡེ་ཀི་ དོན་ལོ་ ཞལ་ལག་ བཟོ་བོ་ གནང་འབོ།					
+#trans = For whom did you make food?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཀྭ་ཡེ་ཀི་	NOUN	___	who	
+3	དོན་ལོ་	PREP	d'on lo	for	
+4	ཞལ་ལག་	NOUN	zh'e lâ	meal (honorific)	
+5	བཟོ་བོ་	VERB+INF	zö bo	made	
+6	གནང་འབོ།	AUXHON+INF	nang bo	give	
+					
+#sentence id = 158					
+#text = ལྷན་རྒྱས་ཀྱི་ ཉིམ་ ག་འདེམ་  འབྱུང་ འབོ།					
+#trans = How was your day?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON	lhan gye kyi	your (honorific)	
+2	ཉིམ་	NOUN	nyim	day	
+3	ག་འདེམ་	VERB	ka dem	how	
+4	འབྱུང་འབོ།	AUXQ	j'ung bo          	happen	
+					
+#sentence id = 159					
+#text = ལྷན་རྒྱས་ དྷེལ་ལི་ལས་ ནམ་ ལོག་ བྱོན་བོ་ གནང་འབོ།					
+#trans = When did you come from Delhi?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	དྷེལ་ལི་ལས་	PROPN+le	English word	from Delhi	
+3	ནམ་	ADV	nam	when	
+4	ལོག་	VERB	lok	back	
+5	བྱོན་བོ་		j'ön bo	going, coming	
+6	གནང་འབོ།	AUXHON+INF	nang bo	give	
+					
+#sentence id = 160					
+#text = ལྷན་རྒྱས་ཀྱི་ འགྲུལ་ ག་འདེམ་ འབྱུང་འབོ་ ལགས།					
+#trans = How was your journey?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	འགྲུལ་	NOUN	dr'ü	travel	
+3	ག་འདེམ་	ADV	g'a dem	what type of	
+4	འབྱུང་འབོ་	VERB	jung bo	happen	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 161					
+#text = ལྷན་རྒྱས་ལོ་ གསུང་གླུ་ རྐྱབས་ཤད་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།					
+#trans = Are you intersted in singing?					
+1	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+2	གསུང་གླུ་	NOUN	sung 'lü	song (honorific)	
+3	རྐྱབས་ཤད་	VERB+she	kyab sh'e	do	
+4	དགའ་ཚོར་	ADJ	gâ tsho	joyful, cheerful	
+5	ཡོད་ཀ་	AUX+Q	yö ka	do you have it?	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 162					
+#text = ལྷན་རྒྱས་ དྲོ་པ་ མ་ལག་ བཞེངས་པོ་ གནང་ག་ ལགས།					
+#trans = Do you get up early in the morning?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	དྲོ་པ་	NOUN	dr'ö p'ä	morning	
+3	མ་ལག་	ADV	ma lak	hurry, fast	
+4	བཞེངས་པོ་	VERB+INF	zheng po	build, errect	
+5	གནང་ག་	AUXHON+Q	nang ga	will do?	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 163					
+#text = ལྷན་རྒྱས་ མདང་ ག་ན་ བྱོན་བོ་ ལགས།					
+#trans = Where did you go yesterday?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	མདང་	ADV	däng	yesterday	
+3	ག་ན་	ADV	ga na	where?	
+4	བྱོན་བོ་	VERB	j'on bö	went (honorific)	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 164					
+#text = ལྷན་རྒྱས་ ད་ལྟ་ གན་གནང་ བདོ་ལགས།					
+#trans = What are you doing right now?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ད་ལྟ་	ADV	d'a ta	now	
+3	གན་	NOUN+AUXHON	g'an	what	
+4	གནང་བདོ་	VERB+do	hnang do	doing	
+5	ལགས།	AUX+HON	la		
+					
+#sentence id = 165					
+#text = ལྷན་རྒྱས་ ད་ལྟ་ ག་འདེམ་ ཡོད་པོ་ ལགས།					
+#trans = How are you feeling now?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ད་ལྟ་	ADV	d'a ta	now	
+3	ག་འདེམ་	ADV	g'a dem	what type of	
+4	ཡོད་པོ་	AUX+INF	yod' po	have	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 166					
+#text = ལྷན་རྒྱས་ཀྱི་ མ་ཡུམ་ སྐུ་གཟུགས་ ག་འདེམ་ ཡོད་པོ་ ལགས།					
+#trans = How is your mom?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	མ་ཡུམ་	NOUN	ma yum	mother	
+3	སྐུ་གཟུགས་	NOUN	kü z'û	body (honorific)	
+4	ག་འདེམ་	ADV	g'a dem	what type of	
+5	ཡོད་པོ་	AUX+INF	yod' po	have	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 167					
+#text = ལྷན་རྒྱས་ ཐུག་པ་ བཞེས་པོ་ གནང་ཤད་ འབོ།					
+#trans = Do you want to eat noodles?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཐུག་པ་	NOUN	thuk pa	noodles	
+3	བཞེས་པོ་	VERB+INF	zh'e po	eaten (honorific)	
+4	གནང་ཤད་	AUXHON+she	nang she	will do	
+5	འབོ།	AUXQ	bo		
+					
+#sentence id = 168					
+#text = ང་ཅག་ གན་ མངག་ཤད་ ལགས།					
+#trans = What should we order?					
+1	ང་ཅག་	PRON	nga cak	we	
+2	གན་	NOUN	gan	what	
+3	མངག་ཤད་	VERB+she	ngak she	order	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 169					
+#text = ཡུལ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག					
+#trans = Does this place sell burgers?					
+1	ཡུལ་	NOUN	ü	place	
+2	འདི་ན་	ADV	di na	here	
+3	ཕྱི་རྒྱལ་གྱི་	NOUN+POSS	chi gyê g'yi	foreign's	
+4	བག་ལེབ་	NOUN	b'â lep	bread	
+5	བཙོང་ག	VERB+Q	tsong ga	can I sell	
+					
+#sentence id = 170					
+#text = ལྷན་རྒྱས་ཀྱི་ ཕྱག་ལས་ ག་འདེམ་ བྱུང་བདོ།					
+#trans = How is your work going on?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཕྱག་ལས་	NOUN+le	ch'ä le	from his hand (honorific)	
+3	ག་འདེམ་	ADV	g'a dem	what type of	
+4	བྱུང་བདོ།	VERB+do	j'üng do	become	
+					
+#sentence id = 171					
+#text = ཁྱད་ལས་ ལེགམ་རང་ ཡོད་ཀ།					
+#trans = Is everything alright?					
+1	ཁྱད་ལས་	NOUN	khye le	all	
+2	ལེགམ་རང་	ADJ	lêm ra	be good	
+3	ཡོད་ཀ།	AUX+Q	yö ka	be/have	
+					
+#sentence id = 172					
+#text = ལྷན་རྒྱས་ཀྱི་ ད་རིང་ ཐུགས་ དལ་ག་ ལགས།					
+#trans = Do you have free time today?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ད་རིང་	ADV	d'a ring	today	
+3	ཐུགས་	NOUN	thuk	mind	
+4	དལ་ག་	NOUN	dal g'a	leisure (honorific) free	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 173					
+#text = ད་རིང་ ང་ཅག་ འཕྱ༹ད་ཚུགས་ ཀ་ལགས།					
+#trans = Can we meet today?					
+1	ད་རིང་	ADV	d'a ring	today	
+2	ང་ཅག་	PRON	nga cak	we	
+3	འཕྱ༹ད་ཚུགས་	VERB+MOD	___ tshu	can meet	
+4	ཀ་ལགས།	Q+HON	kâ la		
+					
+#sentence id = 174					
+#text = ལྷན་རྒྱས་ ཡུལ་ ག་འདི་ ག་འདི་ན་ བསྐོར་བ་ བྱོན་བོ་ གནང་ གནང་བོ།					
+#trans = Which places have you visited?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཡུལ་	NOUN	ü	place	
+3	ག་འདི་	ADJ	g'a di	which	
+4	ག་འདི་ན་	ADJ+LOC	ga di na	in which	
+5	བསྐོར་བ་	VERB	kör wa	roam	
+6	བྱོན་བོ་	VERB+INF	j'on bö	went (honorific)	
+7	གནང་	AUXHON	hnang	give (honorific)	
+8	གནང་བོ།	AUXHON+INF	hnang bo	given	
+					
+#sentence id = 175					
+#text = ག་འད་ འདི་ ལེགས་པས་ ལགས།					
+#trans = Which one is better?					
+1	ག་འདི	ADJ	g'a di	which one	
+2	འདི་	DET	di	this	
+3	ལེགས་པས་	ADJ+pe	le pe	good	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 176					
+#text = ང་ འདི ལེན་ག་ ལགས།					
+#trans = Should I get this?					
+1	ང་	PRON	nga	I	
+2	འདི་	DET	di	this	
+3	ལེན་ག་	VERB	len ga	can I receive	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 177					
+#text = ཨོ་འདི་ཏོ་ ལེབ་སྟི་ གོང་ མ་ཆེ་ ག					
+#trans = Isn't it too expensive?					
+1	ཨོ་འདི་ཏོ་	DET+to	o di to	that (?)/ that is	
+2	ལེབ་སྟི་	ADV	lep ti	too much	
+3	གོང་	PREP	g'ong	above	
+4	མ་ཆེ་	NEG+ADJ	ma che	not great	
+5	ག	Q	ka		
+					
+#sentence id = 178					
+#text = ལྷན་རྒྱས་ ཨ་བསམ་གྱི་ ཟམ་གྱི་ སྐོར་ལས་ མཁྱེན་ག་ ལགས།					
+#trans = Do you know about the food in Assam?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཨ་བསམ་གྱི་	PROPN+POSS	a sam g'yi	in Assam	
+3	ཟམ་གྱི་	NOUN+POSS	z'am g'yi	meal	
+4	སྐོར་ལས་	PREP	kör le	about	
+5	མཁྱེན་ག་	VERB+Q	khyen ga	do you know? (honorific)	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 179					
+#text = ཆརབ་འདི་ ནམ་ ཆད་ཤད་ སྙམ།					
+#trans = When will the rain stop!					
+1	ཆརབ་འདི་	NOUN+DET	châp di	this rain	
+2	ནམ་	ADV	nam	when	
+3	ཆད་ཤད་	VERB+she	che she	will cut, cut off	
+4	སྙམ།	VERB	nyam	(I) wonder	
+					
+#sentence id = 180					
+#text = ལྷན་རྒྱས་ གཟིམ་ཁང་ནང་ ནམ་ ལོག་ བྱོན་ཤད་ ལགས།					
+#trans = When are you coming at home?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	གཟིམ་ཁང་ནང་	NOUN+LOC	zim khang nâ	inside the house (honorific)	
+3	ནམ་	ADV	nam	when	
+4	ལོག་	VERB	lok	return	
+5	བྱོན་ཤད་	VERB+she	j'on she	will go, will come (honorific)	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 181					
+#text = ལྷན་རྒྱས་ཀྱིས་ སྣོད་ཙུ་ ཁྱུས་བོ་ གནང་བོ་ ལགས།					
+#trans = Did you clean the utensils?					
+1	ལྷན་རྒྱས་ཀྱིས་	PRON+POSS	lhan gye kyi	by you (honorific)	
+2	སྣོད་ཙུ་	NOUN	hn'ö tsu	utensil	
+3	ཁྱུས་བོ་	VERB	khyu b'o	wash	
+4	གནང་བོ་	AUXHON+INF	hnâ bo	given (honorific)	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 182					
+#text = ལྷན་རྒྱས་ཀྱི་ ཁྱིའི་ མིང་ གན་འབོ།					
+#trans = What is your dog name?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཁྱིའི་	NOUN	khyî	dog's	
+3	མིང་	NOUN	mîng	name	
+4	གན་འབོ།	NOUN+AUXQ	g'an bo	what is it?	
+					
+#sentence id = 183					
+#text = ལྷན་རྒྱས་ འདི་ལས་ ལྷག་ཀོའི་ སློབ་སྦྱོང་ གནང་ཤད་ཀྱི་ འཆར་གཞི་ གནང་བདོ་ ལགས།					
+#trans = Are you planning for further studies?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	འདི་ལས་	DET+le	di le	this from	
+3	ལྷག་ཀོའི་	ADJ	lha kô	more then	
+4	སློབ་སྦྱོང་	NOUN	lop j'ong	study	
+5	གནང་ཤད་ཀྱི་	AUXHON+she+POSS	nang she ki	will do or give (honorific)	
+6	འཆར་གཞི་	NOUN	char zhi	plan	
+7	གནང་བདོ་	AUXHON	hnang do?	give(honorific)	
+8	ལགས།	HON	lâ		
+					
+#sentence id = 184					
+#text = ལྷན་རྒྱས་ཀྱི་ ཕྱག་ལས་ ག་འདེམ་ ཐོན་བདོ་འབོ།					
+#trans = How is your work going on?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཕྱག་ལས་	NOUN+le	ch'ä le	from his hand (honorific)	
+3	ག་འདེམ་	ADV	g'a dem	what type of	
+4	ཐོན་བདོ་འབོ།	VERB+do+INF	thon dô bô	happening	
+					
+#sentence id = 185					
+#text = ལྷན་རྒྱས་ ལེབ་སྟི་རང་ སྐུ་ཐང་ ཆད་པོ་ འདེམ་ འདུག་ཤོ། ཁྱད་ལས་ གང་པོ་ ལེགམ་རང་ ཡོད་ཀ་ ལགས།					
+#trans = You look so tired. Is everything alright?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ལེབ་སྟི་རང་	ADJ	lep ti ra	too much	
+3	སྐུ་ཐང་	NOUN	ku thâng	health (honorific)	
+4	ཆད་པོ་	VERB+INF	che po	torn, fine	
+5	འདེམ་	UNK	dem	like this(look like)	
+6	འདུག་ཤོ།	AUX+sho	dü sho	its there	
+7	ཁྱད་ལས་	DET	khye le	all	
+8	གང་པོ་	ADV	g'ang po	full of	
+9	ལེགམ་རང་	ADJ	lêm ra	be good	
+10	ཡོད་ཀ་	AUX+Q	yö ka	do you have it?	
+11	ལགས།	HON	lâ		
+					
+#sentence id = 186					
+#text = ད་རིང་ ཉིམ་ ལེགམ་ ཤར་འདུག། ང་ཅག་  བྱེ་ རྩེད་བ་ བྱོན་ཤད་ མན་ན།					
+#trans = It's a sunny day. Shall we go for swimming?					
+1	ད་རིང་	ADV	d'a ring	today	
+2	ཉིམ་	NOUN	nyim	day	
+3	ལེགམ་	ADJ	lîm	good	
+4	ཤར་འདུག།	VERB	sh duk     	shining	
+5	ང་ཅག་	PRON	nga cak	we	
+6	བྱེ་	NOUN	b'ya	swimming	
+7	རྩེད་བ་	VERB+pa	tse pa	play	
+8	བྱོན་ཤད་	AUXHON+she	j'on she	will go, will come (honorific)	
+9	མན་ན།	NEGAUX+Q	me na	isn't, must be	
+					
+#sentence id = 187					
+#text = ལྷན་རྒྱས་ ང་ལོ་ ལས་ཁུངས་ ཟང་སྟེ་ བསྐྱེལ་བ་ བྱོན་བོ་ གནང་ཤད་ ལགས། ང་ ལེབ་སྟི་ ཕྱི༹ས་ཚར།					
+#trans = Can you please drop me to my office? I'm late!					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ང་ལོ་	PRON+DAT	nga lo	for me	
+3	ལས་ཁུངས་	NOUN	le khüng	office	
+4	ཟང་སྟེ་	PREP	z'äng te	direct / till there	
+5	བསྐྱེལ་བ་	VERB+ba	kye b'a	send there	
+6	བྱོན་བོ་	VERB	j'on bö	went (honorific)	
+7	གནང་ཤད་	AUXHON+she	hnâ she	will do	
+8	ལགས།	HON	lâ		
+9	ང་	NOUN	ngä	I	
+10	ལེབ་སྟི་	ADV	leb+te	too much	
+10	ཕྱི༹ས་ཚར།	ADJ	phyi tshä	got late	
+					
+#sentence id = 188					
+#text = ལྷན་རྒྱས་ ལེའུ་འདི་ མཁྱེན་བོ་ གནང་བོ་ ལགས།					
+#trans = Did you understand this chapter?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ལེའུ་འདི་	NOUN+DET	leû di	this chapter	
+3	མཁྱེན་བོ་	VERB	khyen bo	know/came to know (honorific)	
+4	གནང་བོ་	AUXHON+INF	hnâ bo	given (honorific)	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 189					
+#text = ལྷན་རྒྱས་ ཡུལ་ཁ་ ནམ་ ལོག་ བྱོན་བོ་ གནང་ཤད།					
+#trans = When are you going to your village?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཡུལ་ཁ་	NOUN+kha	yü kha	at village	
+3	ནམ་	ADV	nam	when	
+4	ལོག་		lok	back	
+5	བྱོན་བོ་		j'ön bo	going	
+5	གནང་ཤད།	AUXHON+she	hnang she	will do	
+					
+#sentence id = 190					
+#text = ལྷན་རྒྱས་ཀྱི་ ཚོགས་འདུ་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ མྱོང་ཤད་ལགས།					
+#trans = What time will your meeting get over?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ཚོགས་འདུ་	NOUN	tshö du	meeting	
+3	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+4	ག་ཚོད་ལོ་	ADJ	g'a tshod lo	how much?	
+5	མྱོང་ཤད་ལགས།	VERB+she+HON	nyö she la	will finish	
+					
+#sentence id = 191					
+#text = ཐོ་རངས་ཀྱི་ ཉིན་མིའི་ ཛོའུ་ཀི་ དོན་ལས་ གན་ འབག་  འོང་ཤད།					
+#trans = What should I get for lunch tomorrow?					
+1	ཐོ་རངས་ཀྱི་	NOUN+POSS	thö rang kyi	for tomorrow	
+2	ཉིན་མིའི་	NOUN	nyi mê	day time, lunch	
+3	ཛོའུ་ཀི་	UNK	dzoü ki	for lunch	
+4	དོན་ལས་	UNK	d'on le	for this purpose	
+5	གན་	NOUN	gan	what	
+6	འབག་ འོང་	VERB	bäk ong	carry come	
+7	ཤད།	+she	she	?	
+					
+#sentence id = 192					
+#text = ལྷན་རྒྱས་ གསོལ་སྨན་ བཞེས་པོ་ གནང་བདོ་ཀ་ ལགས།					
+#trans = Are you taking your medicine?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	གསོལ་སྨན་	NOUN	sö hmen	medicien (honorific)	
+3	བཞེས་པོ་	VERB+INF	zh'e po	eaten (honorific)	
+4	གནང་བདོ་ཀ་	AUXHON+do+Q	hna do ka	are you doing	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 193					
+#text = ལྷན་རྒྱས་ ཆགས་རོགས་ ཙུ་ཀི་ ཡུལ་ལོ་ བྱོན་བོ་ མི་གནང་ ག					
+#trans = Aren't you going to your friends place?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆགས་རོགས་	NOUN	chak rö	friends	
+3	ཙུ་ཀི་	PREP	tsü ki	by	
+4	ཡུལ་ལོ་	NOUN+DAT	yû lo	in the village	
+5	བྱོན་བོ་	VERB+INF	j'on bö	went (honorific)	
+6	མི་གནང་	NEG+VERB	mi nang	will not get	
+7	ག	Q	___		
+					
+#sentence id = 194					
+#text = ལྷན་རྒྱས་ཀྱི་ གུང་སེང་ བྷ་ལི་ལོ་ ག་འདེམ་ བྱུང་བོ་ལས།ས།					
+#trans = How was your vacation at Balli?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	གུང་སེང་	NOUN	g'ung seng	holiday	
+3	བྷ་ལི་ལོ་	PROPN+DAT	ba li lo	Bali at	
+4	ག་འདེམ་	ADV	g'a dem	what type of	
+5	བྱུང་བོ་ལགས།	VERB+INF+HON	jüng bo la		
+					
+#sentence id = 195					
+#text = ཚོདམ་གྱི་ གོང་འདི་ ག་ཚོད་ གནང་བོ་ལགས།					
+#trans = How much did the vegetable cost?					
+1	ཚོདམ་གྱི་	NOUN+POSS	tshôm g'yi	by vegetable	
+2	གོང་འདི་	NOUN+DET	göng di	price this	
+3	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+4	གནང་བོ་ལགས།	AUXHON+INF+HON	hnang bo la	was (honorific)	
+					
+#sentence id = 196					
+#text = མོ་ ག་ན་ བྱོན་བོ་ ལབ་སྟི་ ང་ཀི་ ག་ལྟེ་ ཧ་གོ་ ཤད།					
+#trans = How do I know where she went.					
+1	མོ་	PRON	mo	female	
+2	ག་ན་	ADV	ga na	where?	
+3	བྱོན་བོ་	VERB	j'on bö	went (honorific)	
+4	ལབ་སྟི་	UNK	lab ti	saying so	
+5	ང་ཀི་	PROPN+ki	nga ki	by me	
+6	ག་ལྟེ་	ADV	g'a te	how	
+7	ཧ་གོ་	VERB	ha g'o	to know	
+8	ཤད།	she	sh'ä?		
+					
+#sentence id = 197					
+#text = ལྷན་རྒྱས་ཀྱི་ བཅར་འདྲི་ ༼ཨིན་ཊོར་བིའུ༽ ག་འདེམ་ བྱུང་བོ་ ལགས།					
+#trans = How was your interview?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	བཅར་འདྲི་	NOUN	cä dr'i	go and ask	
+3	༼ཨིན་ཊོར་བིའུ༽	PROPN	english word	interview	
+4	ག་འདེམ་	ADV	g'a dem	what type of	
+5	བྱུང་བོ་	VERB+INF	j'ung b'o	happen	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 198					
+#text = ལྷན་རྒྱས་ཀྱིས་ ཡིག་ བྲིས་བོ་ ལོ་ གླ་ བཏབ་པོ་ གནང་བོ་ ལགས།					
+#trans = Did you pay the vender?					
+1	ལྷན་རྒྱས་ཀྱིས་	PRON+POSS	lhan gye kyi	by you (honorific)	
+2	ཡིག་	NOUN	yi	letter	
+3	བྲིས་བོ་	VERB+INF	dr'ä bo	write	
+4	ལོ་	+DAT	lo	to	
+5	གླ་		la	fee	
+6	བཏབ་པོ་	VERB+INF	tap po	paying	
+6	གནང་བོ་	AUXHON	hnâ bo	given (honorific)	
+7	ལགས།	HON	lâ		
+					
+#sentence id = 199					
+#text = ང་ཡང་ ལྷན་རྒྱས་ཙུ་ མཉམ་པོ་ བཅར་ཚུགས་ ཀ					
+#trans = Can I also come with you people?					
+1	ང་ཡང་	PRON+ADV	nga yang	I also	
+2	ལྷན་རྒྱས་ཙུ་	PRON+tsu	lhan gye tsu	you people (honorific)	
+3	མཉམ་པོ་	ADV	nyam pü	together	
+4	བཅར་ཚུགས་	VERB+MOD	châ tshü	able to come (honorific)	
+5	ཀ	Q	___		
+					
+#sentence id = 200					
+#text = ད་རིང་ ཕྱི་རུ་ཀི་ ཞལ་ལག་ན་ གན་ ཡོད་པོ་ ལགས།					
+#trans = What is there for dinner today?					
+1	ད་རིང་	ADV	d'a ring	today	
+2	ཕྱི་རུ་ཀི་	UNK	phyi ru ki	in the night	
+3	ཞལ་ལག་ན་	NOUN+LOC	zh'e lak nâ	in the meal (honorific)	
+4	གན་	NOUN	gan	what	
+5	ཡོད་པོ་	AUX+INF	yod' po	have	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 201					
+#text = ལྷན་རྒྱས་ ཚོང་ སྒོ་བཙུག་ཀོ་ གནང་བདོ་ ལགས།					
+#trans = Are you starting a business?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཚོང་		tshong	shop/business	
+3	སྒོ་བཙུག་ཀོ་	VERB+ko	go tsü ko	planted/starte	
+4	གནང་བདོ་	AUXHON+do	hna do	doing	
+5	ལགས།	HON	lâ		
+#sentence id = 202					
+#text = ལྷན་རྒྱས་ ཚོན་ བཏང་ཤད་ལོ་ དགའ་དྲགས་ ཡོད་པོ་ ལགས།					
+#trans = Are you intersted in painting?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཚོན་	NOUN	tshön	color, hue, pigment, coloring matter, paint	
+3	བཏང་ཤད་ལོ་	VERB+she+DAT	tang she lo	for send	
+4	དགའ་དྲགས་	ADJ	ga tra	happy	
+5	ཡོད་པོ་	AUX+INF	yod' po	have	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 203					
+#text = ལྷན་རྒྱས་ཀྱི་ ནོར་འཁྲུལ་ གན་ གཟིགས་པོ་ ལགས།					
+#trans = Did you find any mistake?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	ནོར་འཁྲུལ་	NOUN	nör thrul	mistake	
+3	གན་	NOUN	gan	what	
+4	གཟིགས་པོ་	VERB+INF	zi po	seen (honorific)	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 204					
+#text = ལྷན་རྒྱས་ཀྱིས་ ག་ཚོད་ མྱོང་པོ་ གནང་བོ་ ལགས།					
+#trans = How much did you complete?					
+1	ལྷན་རྒྱས་ཀྱིས་	PRON+POSS	lhan gye kyi	by you (honorific)	
+2	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+3	མྱོང་པོ་	VERB+INF	nyô po	finish	
+4	གནང་བོ་	AUXHON+INF	hnâ bo	given (honorific)	
+5	ལགས།	HON	lâ		
+					
+					
+#sentence id = 205					
+#text = ལྷན་རྒྱས་ འགྲུལ་སྐོར་ གནང་ཤད་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།					
+#trans = Do you like travelling?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	འགྲུལ་སྐོར་	NOUN	drü kor	tour, travel	
+3	གནང་ཤད་	AUXHON+she	nang she	will do	
+4	དགའ་ཚོར་	ADJ	gâ tsho	joyful, cheerful	
+5	ཡོད་ཀ་	AUX+Q	yö ka	do you have it?	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 206					
+#text = ལྷན་རྒྱས་ སློབ་གྲྭ་ན་ ལྷོ་སྐད་ སྦྱང་ ཞེ་ཀ					
+#trans = Have you studied Bhutia in school?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	སློབ་གྲྭ་ན་	NOUN+LOC	lob dra nâ	at school	
+3	ལྷོ་སྐད་	PROPN	lhokê	Bhutia language	
+4	སྦྱང་	VERB	jang          	study/learn	
+5	ཞེ་ཀ	Q	zhe ka	did?	
+					
+#sentence id = 207					
+#text = ལྷན་རྒྱས་ ག་ན་ ཡོད་མཁན་ ལགས།					
+#trans = Where have you been?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ག་ན་	ADV	ga na	where?	
+3	ཡོད་མཁན་	AUX+NMLZ	yod' khen	one which have	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 208					
+#text = ལྷན་རྒྱས་ མེ་ཏོག་ བཙུག་ཤད་ལོ་ དགའ་ཚོར་ ཡོད་ཀ་ ལགས།					
+#trans = Do you like gardening?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	མེ་ཏོག་	NOUN	me tô	flower	
+3	བཙུག་ཤད་ལོ་	NOUN+DAT	tsük she lo	for the  plant	
+4	དགའ་ཚོར་	ADJ	gâ tsho	joyful, cheerful	
+5	ཡོད་ཀ་	AUX+Q	yö ka	do you have it?	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 209					
+#text = ད་རིང་ ཚེས་ ག་ཚོད་ འབོ་ལགས།					
+#trans = What date is today?					
+1	ད་རིང་	ADV	d'a ring	today	
+2	ཚེས་	NOUN	tshe	date	
+3	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+4	འབོ་ལགས།	AUX+HON	bo la		
+					
+#sentence id = 210					
+#text = ལྷན་རྒྱས་ གཟིགམ་ གཟིགས་པ་ བྱོན་བོ་ གནང་ཤད་ ལགས།					
+#trans = Do you want to go for show?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	གཟིགམ་	NOUN	zim            	show	
+3	གཟིགས་པ་	VERB+pa	zi pa	see	
+4	བྱོན་བོ་	VERB+INF	j'on bö	went (honorific)	
+5	གནང་ཤད་	AUXHON+she	nang she	will do	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 211					
+#text = ད་རིང་ ང་ཅག་ འགྲུལ་སྐོར་ལོ་ རྒྱུ་ཤད་ མན་ག།					
+#trans = Should we go for a drive today?					
+1	ད་རིང་	ADV	d'a ring	today	
+2	ང་ཅག་	PRON	nga cak	we	
+3	འགྲུལ་སྐོར་ལོ་	NOUN+DAT	drû kor lo	for tour	
+4	རྒྱུ་ཤད་	VERB+she	gyu she	went to go	
+5	མན་ག།	NEGAUX+Q	man ga	isnt?	
+					
+#sentence id = 212					
+#text = ལྷན་རྒྱས་ཀྱི་ འགྲུལ་སྐོར་ ཉིམ་ ག་ཚོད་ཀྱི་ འབོ།					
+#trans = For how many days is your trip?					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	འགྲུལ་སྐོར་	NOUN	drü kor	tour	
+3	ཉིམ་	NOUN	nyim	day	
+4	ག་ཚོད་ཀྱི་	ADV+POSS	g'a tshö kyi	how much	
+5	འབོ།	AUX	bo		
+					
+#sentence id = 213					
+#text = གཟའ་ ཟླ་བོ་ ཉིམ་ འགྲུལ་རྐྱབས་ན་ འགྲིག་ཀ་ ལགས།					
+#trans = Can I travel on Monday?					
+1	གཟའ་	NOUN	zä	week	
+2	ཟླ་བོ་	NOUN	da ö	Monday	
+3	ཉིམ་	NOUN	nyim	day	
+4	འགྲུལ་རྐྱབས་ན་	VERB+SCONJ	drû kyap na	if you travel	
+5	འགྲིག་ཀ་	UNK	dri ka	is that ok?	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 214					
+#text = ས་ཆ་ འདིའི་ མིང་ གན་འབོ་ ལགས།					
+#trans = What is the name of this place?					
+1	ས་ཆ་	NOUN	sa cha	place	
+2	འདིའི་	DET+POSS	dî	of this	
+3	མིང་	NOUN	mîng	name	
+4	གན་འབོ་	NOUN+AUX	g'an bö	what is	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 215					
+#text = འདི་ཁར་ གནས་ རྩ་ཆེན་ མཇལ་ཤད་ གན་ ཡོད་ལགས།					
+#trans = Are there any important holy places around here?					
+1	འདི་ཁར་	ADV	di khâ	here	
+2	གནས་	NOUN	hne	place	
+3	རྩ་ཆེན་	ADJ	tsä ch'e	precious	
+4	མཇལ་ཤད་	NOUN	j'ä sh'e	meeting (honorific)	
+5	གན་	NOUN	gan	what	
+6	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 216					
+#text = ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ སློབ་གྲྭ་ བྱོན་བོ་ གནང་བདོ་ ལགས།					
+#trans = At what time do you go to school?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་ལོ་	ADJ	g'a tshod lo	how much?	
+4	སློབ་གྲྭ་	NOUN	lob gr'a	school	
+5	བྱོན་བོ་	VERB+INF	j'on bö	went (honorific)	
+6	གནང་བདོ་	AUXHON+do	hna do	doing	
+7	ལགས།	HON	lâ		
+					
+#sentence id = 217					
+#text = ང་ ཆུ་ཚོད་ དགུ་ལོ་ སློབ་གྲྭ་ རྒྱུ་བདོ་ ཨིན་ལགས།					
+#trans = I go to school at 9 o'clock.					
+1	ང་	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	དགུ་ལོ་	NUM+DAT	gu lo	at nine	
+4	སློབ་གྲྭ་	NOUN	lob gr'a	school	
+5	རྒྱུ་བདོ་	VERB+do	gyu do	going	
+6	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 218					
+#text = ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ཡར་བཞེངས་པོ་ གནང་བདོ་ ལགས།					
+#trans = What time do you get up?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་ལོ་	ADJ	g'a tshod lo	how much?	
+4	ཡར་བཞེངས་པོ་	VERB+INF	yä zheng po	stand up (honorific)	
+5	གནང་བདོ་	AUXHON+do	hna do	doing	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 219					
+#text = ང་ ཆུ་ཚོད་ དྲུག་ལོ་ ལངས་ཏོ་ ཨིན་ལགས།					
+#trans = I get up at six o'clock.					
+1	ང་	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	དྲུག་ལོ་	NUM+DAT	dr'uk lo	at six	
+4	ལངས་ཏོ་	ADV	lang to	enough	
+5	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 220					
+#text = ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ དྲོ་ཟ་ བཞེས་པོ་ གནང་བདོ་ ལགས།					
+#trans = What time do you have your breakfast?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་ལོ་	ADJ	g'a tshod lo	how much?	
+4	དྲོ་ཟ་	NOUN	dr'ö z'a	break fast	
+5	བཞེས་པོ་	VERB+INF	zh'e po	eaten (honorific)	
+6	གནང་བདོ་	AUXHON+do	hna do	doing	
+7	ལགས།	HON	lâ		
+					
+#sentence id = 221					
+#text = ང་ ཆུ་ཚོད་ བདུན་ལོ་ དྲོ་ཟ་ ཟ་བདོ་ ཨིན་ལགས།					
+#trans = I have breakfast at seven o'clock.					
+1	ང་	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	བདུན་ལོ་	NUM+DAT	dû lo	at seven	
+4	དྲོ་ཟ་	NOUN	dr'ö z'a	break fast	
+5	ཟ་བདོ་	VERB+do	z'a do	having, eating	
+6	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 222					
+#text = ལྷན་རྒྱས་ ཉིན་མའི་ ཞལ་ལགས་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ བཞེས་པོ་ གནང་བདོ་ ལགས།					
+#trans = What time do you have your lunch?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཉིན་མའི་	NOUN+POSS	nyi mê	day's	
+3	ཞལ་ལགས་	NOUN	zh'e lak	food	
+4	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+5	ག་ཚོད་ལོ་	ADJ	g'a tshod lo	how much?	
+6	བཞེས་པོ་	VERB+INF	zh'e po	eaten (honorific)	
+7	གནང་བདོ་	AUXHON+do	hna do	doing	
+8	ལགས།	HON	lâ		
+					
+#sentence id = 223					
+#text = ང་ ཆུ་ཚོད་ གཅིག་ལོ་ ཟ་བདོ་ ཨིན་ལགས།					
+#trans = I have lunch at one o'clock.					
+1	ང་	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	གཅིག་ལོ་	NUM+DAT	ci lo	for one	
+4	ཟ་བདོ་	VERB+do	z'a do	having, eating	
+5	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 224					
+#text = ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་བར་ གཟིམ་ཁང་ལོ་ ལོག་བྱོན་བོ་ གནང་བདོ་ ལགས།					
+#trans = What time do you get home?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་བར་	ADV+ba	g'a tshod bâ	till when	
+4	གཟིམ་ཁང་ལོ་	NOUN+DAT	zim khang lo	at home (honorific)	
+5	ལོག་བྱོན་བོ་	VERB+INF	lok j'ön bo	going back	
+6	གནང་བདོ་	AUXHON+do	hna do	doing	
+7	ལགས།	HON	lâ		
+					
+#sentence id = 225					
+#text = ང་ ཆུ་ཚོད་ བཞི་དང་ ཕྱེ༹ད་ལོ་ ལོག་སླེབས་ཏོ་ ཨིན་ལགས།					
+#trans = I get home at 4.30 pm.					
+1	ང	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	བཞི་དང་	NUM+CCONJ	zhi d'ang	four and	
+4	ཕྱེ༹ད་ལོ་	NUM+DAT	p'je lo	half	
+5	ལོག་སླེབས་ཏོ་	VERB+lepto	lok 'leptö	about to reach back	
+6	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 226					
+#text = ལྷན་རྒྱས་ ཆུ་ཚོད་ ག་ཚོད་བར་ གཟིམ་པ་ བྱོན་བདོ་ ལགས།					
+#trans = What time do you go to bed?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་བར་	ADV+ba	g'a tshod bâ	till when	
+4	གཟིམ་པ་	NOUN	zim pa	sleep	
+5	བྱོན་བདོ་	VERB+do	j'on dö	coming	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 227					
+#text = ང་ ཆུ་ཚོད་ དགུ་ལོ་ ཉལ་བ་ རྒྱུ་བདོ་ ཨིན་ལགས།					
+#trans = I go to bed at 9 o'clock.					
+1	ང་	PRON	nga	I	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	དགུ་ལོ་	NUM+DAT	gu lo	at nine	
+4	ཉལ་བ་	NOUN	nyal wa	sleep	
+5	རྒྱུ་བདོ་	VERB+do	gyu do	going	
+6	ཨིན་ལགས།	AUX+HON	ing la	yes	
+					
+#sentence id = 228					
+#text = དངུལ་ཁང་ འདི་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ ཕྱི༹་བོ་ གནང་བདོ།					
+#trans = At what time does the bank open?					
+1	དངུལ་ཁང་	NOUN	ng'ü khang	bank	
+2	འདི་	DET	di	this	
+3	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+4	ག་ཚོད་ལོ་	ADV+DAT	g'a tshod lo	how much?	
+5	ཕྱི༹་བོ་	UNK	phyi bo	open	
+6	གནང་བདོ།	AUXHON+to	hn'ä    	doing	
+					
+#sentence id = 229					
+#text = ལྷན་རྒྱས་ དུས་ཚོད་ སྟོང་པོ་ ཡོད་སྐབས་ གན་ གནང་བདོ་ ལགས།					
+#trans = What do you do in your free time?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	དུས་ཚོད་	NOUN	d'û tshö	time	
+3	སྟོང་པོ་	ADJ	tong ko	empty	
+4	ཡོད་སྐབས་	AUX+kap	yö kap	when it was there	
+5	གན་	ADV	gan	what	
+6	གནང་བདོ་	VERB+do	nâ do	doing	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 230					
+#text = ད་ལྟ་ ཆུ་ཚོད་ ག་ཚོད་ འབོ་ལགས།					
+#trans = What is the time now, please?					
+1	ད་ལྟ་	ADV	d'a ta	now	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
+4	འབོ་ལགས།	AUX+HON	bo la	be	
+					
+#sentence id = 231					
+#text = ད་ལྟ་ ཆུ་ཚོད་ བཅུ་སྦད་ ལགས།					
+#trans = It's ten o'clock.					
+1	ད་ལྟ་	ADV	d'a ta	now	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	བཅུ་སྦད་	NUM+AUX	cu be	its ten	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 232					
+#text = དཀའ་ངལ་ ཡོད་ན་ ངའི་རྩར་ བྱོན།					
+#trans = If you have any difficulty then come to me.					
+1	དཀའ་ངལ་	NOUN+UNK	ka ngal	difficulty	
+2	ཡོད་ན་	AUX+SCONJ	yod na	if you have	
+3	ངའི་རྩར་	PRON+PREP	ngê tsä	to me	
+4	བྱོན།	VERB	j'on	come or go, went (honorific)	
+					
+#sentence id = 233					
+#text = དཀའ་ལས་ མ་རྐྱབས་པ་ བདེ་བ་ མི་ཐོབ།					
+#trans = Pleasant can't be achieved without hard work.					
+1	དཀའ་ལས་	NOUN+le	ka le	difficulty	
+2	མ་རྐྱབས་པ་	NEG+VERB+pa	ma kyap pa	by not doing	
+3	བདེ་བ་	NOUN	de wa	happiness	
+4	མི་ཐོབ།	NEG+VERB	mi th'open	will not get	
+					
+#sentence id = 234					
+#text = ལྷན་རྒྱས་ཀྱི་ མཚན་ འདི་ཁ་ བྲིས་བོ་ གནང་།					
+#trans = Write your name here.					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	མཚན་	NOUN	tshen	name (honorific)	
+3	འདི་ཁ་	ADV	di khâ	here	
+4	བྲིས་བོ་	VERB+INF	dr'ä bo	write	
+5	གནང་།	AUXHON	nang	give	
+					
+#sentence id = 235					
+#text = ལྷན་རྒྱས་ ང་ལོ་ དེབ་འདི་ བསྟན་བོ་ གནང་ཅིག།					
+#trans = Show me your book.					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ང་ལོ་	PRON+DAT	nga lo	for me	
+3	དེབ་འདི་	NOUN＋DET	d'ep di	this book	
+4	བསྟན་བོ་	VERB+INF	___	show	
+5	གནང་ཅིག།	AUXHON+IMP	nâ ci	do that, give	
+					
+#sentence id = 236					
+#text = ཞལ་བསིལ་བོ་ གནང་ལགས།					
+#trans = Wash your face.					
+1	ཞལ་བསིལ་བོ་	NOUN+VERB+INF	zh'ä se bo	face wash (honorific)	
+2	གནང་ལགས།	AUXHON+HON	nang la	give (honorific)	
+					
+#sentence id = 237					
+#text = ལྷན་རྒྱས་ ང་ལོ་ ཇ་ བཟོ་བོ་ གནང་ཅིག།					
+#trans = Make tea for me.					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ང་ལོ་	PRON+DAT	nga lo	for me	
+3	ཇ་	NOUN	j'a	tea	
+4	བཟོ་བོ་	VERB+INF	zö bo	made	
+5	གནང་གཅི།	AUX+IMP	nâ ci	do that, give	
+					
+#sentence id = 238					
+#text = ད་ བྱོན་གེས།					
+#trans = Let's go.					
+1	ད་	ADV	d'a	now	
+2	བྱོན་གེས།	VERB+SUG	j'ön ge	lets go (honorific)	
+					
+#sentence id = 239					
+#text = ལྗགས་ཚྭ་ བཏང་བོ་ གནང་ཅིག།					
+#trans = Pass the salt.					
+1	ལྗགས་ཚྭ་	NOUN	jak tshâ	salt (honorific)	
+2	བཏང་བོ་	VERB	tang bo	leave, release	
+3	གནང་ཅིག།	AUX+IMP	nâ ci	do that, give	
+					
+#sentence id = 240					
+#text = ཐུགས་ མན་སྡུག་ ལགས།					
+#trans = Don't be upset.					
+1	ཐུགས་	NOUN	thuk	heart (honorific)	
+2	མན་སྡུག་ ལགས།	NEG+VERB+HON	man duk la	not worsen	
+					
+#sentence id = 241					
+#text = ལྷན་རྒྱས་ཀྱི་ སྲས་ སྲསམ་ཙུ་ སློབ་གྲྭ་ལོ་ ཁྱིག་བྱོན།					
+#trans = Bring your children to school.					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	སྲས་	NOUN	se	son (honorific)	
+3	སྲསམ་ཙུ་	NOUN	sêm tshu	daughters	
+4	སློབ་གྲྭ་ལོ་	NOUN+DAT	lobdra lo	at school	
+5	ཁྱིག་བྱོན།	PRON+VERB	khyik j'on	take him/her	
+					
+#sentence id = 242					
+#text = ལྷན་རྒྱས་ ང་ལོ་ ཇ་ བཟོ་བོ་ གནང་ཅིག།					
+#trans = Make tea for me.					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ང་ལོ་	PRON+DAT	nga lo	for me	
+3	ཇ་	NOUN	j'a	tea	
+4	བཟོ་བོ་	VERB	zö bo	made	
+5	གནང་ཅིག།	AUX+IMP	nâ ci	do that, give	
+					
+#sentence id = 243					
+#text = ལ་ ལགས་སོ།					
+#trans = Ok, I will do.					
+1	ལ་	INTJ	la		
+2	ལགས་སོ།	VERB	la s'ö	___	
+					
+#sentence id = 244					
+#text = ཞལ་བསིལ་བོ་ གནང་ལགས།					
+#trans = Wash your face.					
+1	ཞལ་བསིལ་བོ་	NOUN+VERB+INF	zh'ä se bo	face wash (honorific)	
+2	གནང་ལགས།	AUXHON+HON	nang la	give (honorific)	
+					
+#sentence id = 245					
+#text = འདི་ ལེགམ་ མིན་འདུག རང་ཐད་ ཚོང་ཁང་ན་ གཟིགས་ཀེ					
+#trans = This is not nice. Let's look in another shop.					
+1	འདི་	DET	di	this	
+2	ལེགམ་	ADJ	lîm	good	
+3	མིན་འདུག	NEG+AUX	m'in dü	its not there	
+4	རང་ཐད་	ADJ	rang the	another	
+5	ཚོང་ཁང་ན་	NOUN+LOC	tshong khang na	in shop	
+6	གཟིགས་ཀེ	VERB+SUG	zig kyi	see	
+					
+#sentence id = 246					
+#text = གོང་ ཨ་ཙི་ བཅག་གནང་ གསུང་བོ་ གནང་དགོས་པ།					
+#trans = Ask for discount.					
+1	གོང་	NOUN	g'ong	price	
+2	ཨ་ཙི་	ADJ	a tse	little	
+3	བཅག་གནང་	VERB	cak hnâ	give + break (please discount)	
+4	གསུང་བོ་	VERB+INF	sung bö	said (honorific)	
+5	གནང་དགོས་པ།	AUXHON+MOD+pa	näng gö pa	should do (honorific)	
+					
+#sentence id = 247					
+#text = ལྷན་རྒྱས་ ཡིག་གཟུགས་ ཨ་ཙི་གཅིག་ ཡར་རྒྱས་ གནང་དགོས་པས།					
+#trans = Improve your handwriting.					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཡིག་གཟུགས་	NOUN	yik zük	hand writing	
+3	ཨ་ཙི་གཅིག་	ADJ	a tsi cik	little	
+4	ཡར་རྒྱས་	VERB	yar gye	develop	
+5	གནང་དགོས་པས།	AUX+MOD	hnâ gö pe	should do / need to do	
+					
+#sentence id = 248					
+#text = ལྷན་རྒྱས་ ག་འདེམ་ ལྕང་དྲགས་ འདུག།					
+#trans = You are so gorgeous.					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ག་འདེམ་	ADV	g'a dem	what type of	
+3	ལྕང་དྲགས་	ADJ	cang trak	beautiful	
+4	འདུག།	AUX	duk	its there	
+					
+#sentence id = 249					
+#text = ལྷན་རྒྱས་ཀྱི་ དབུ་སྐྱ་འདི་ ནག་པོ་ དང་ རིང་པོ་ འདུག་ལགས།					
+#trans = Your hair is black and long.					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	དབུ་སྐྱ་འདི་	NOUN	u kya di	hair (honorific)	
+3	ནག་པོ་	ADJ	nak po	black	
+4	དང་	CCONJ	dang	and	
+5	རིང་པོ་	ADJ	ring po	long	
+6	འདུག་ལགས།	AUX+HON	duk la	it is	
+					
+#sentence id = 250					
+#text = ཞལ་ལག་ ཞིམ་པོ་ འདུག་ལགས།					
+#trans = The food is delicious.					
+1	ཞལ་ལག་	NOUN	zh'e lâ	meal (honorific)	
+2	ཞིམ་པོ་	ADJ	zh'im pu	tasty	
+3	འདུག་ལགས།	AUX+HON	duk la	it is	
+					
+#sentence id = 251					
+#text = ལྷན་རྒྱས་ ལེབ་སྟི་རང་ ཚབས་ཚུབ་ འདུག་ལགས།					
+#trans = You are so restless.					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ལེབ་སྟི་རང་	ADV	lep ti ra	too much	
+3	ཚབས་ཚུབ་	ADJ	tshap tshup	disturbed, agitated	
+4	འདུག་ལགས།	AUX+HON	duk la	it is	
+					
+#sentence id = 252					
+#text = ལྷན་རྒྱས་ ལེབ་སྟི་ སྐུ་ཐང་ ཆད་པོ་ འདེམ་འདུག།					
+#trans = You look exhausted.					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ལེབ་སྟི་	ADV	lep ti	too much	
+3	སྐུ་ཐང་	NOUN	ku thâng	health (honorific)	
+4	ཆད་པོ་	VERB	che po	torn, fine	
+5	འདེམ་འདུག།	AUX	dem duk	look it is	
+					
+#sentence id = 253					
+#text = བཀྲ་ཤིས་ བདེ་ལེགས།					
+#trans = Congratulation!					
+1	བཀྲ་ཤིས་	PROPN	tra shi	Tashi (name) Auspicious	
+2	བདེ་ལེགས།	NOUN	de lek	auspiciousness, goodness, happiness	
+1+2	བཀྲ་ཤིས་ བདེ་ལེགས།	MWE			Congratulation!
+					
+#sentence id = 254					
+#text = ལྷན་རྒྱས་ཀྱི་ འཁྲུངས་སྐར་ ཉིན་ནང་ བཀྲ་ཤིས་ བདེ་ལེགས་ ཡོད་ལགས།					
+#trans = Happy birthday!					
+1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
+2	འཁྲུངས་སྐར་	NOUN	thrung kar	birthday	
+3	ཉིན་ནང་	NOUN	nyim nâ	day time	
+4	བཀྲ་ཤིས་	PROPN	tra shi	Tashi (name) Auspicious	
+5	བདེ་ལེགས་	NOUN	de lek	auspiciousness, goodness, happiness	
+6	ཡོད་ལགས།	AUX	yô la	have	
+					
+#sentence id = 255					
+#text = ད་རིང་ ཉིམ་འདི་ ལེགམ་འབྱུང་ བཅུག་ཅིག					
+#trans = Have a good day.					
+1	ད་རིང་	ADV	d'a ring	today	
+2	ཉིམ་འདི་	NOUN	nyim de	this day's	
+3	ལེགམ་འབྱུང་	ADJ	lem j'üng	happen good	
+4	བཅུག་ཅིག	AUX+IMP	jug ci	___	
+					
+#sentence id = 256					
+#text = མོ་ ལེབ་སྟི་རང་ རྩུབ་དྲགས་ འདུག།					
+#trans = She is so rude.					
+1	མོ་	PRON	mo	female	
+2	ལེབ་སྟི་རང་	ADV	lep ti ra	too much	
+3	རྩུབ་དྲགས་	ADJ	tsup trak	rough	
+4	འདུག།	AUX	duk	it is.	
+					
+#sentence id = 257					
+#text = ཟམ་འདི་ ལེགམ་ འདུག					
+#trans = The food was delicious!					
+1	ཟམ་འདི་	NOUN+DET	z'am di	this meal	
+2	ལེགམ་	ADJ	lîm	good	
+3	འདུག	AUX	duk	it is.	
+					
+#sentence id = 258					
+#text = ཟ་ཁང་ ག་འདི་ འདི་ ལེགས་པས་ ལགས།					
+#trans = Which restaurant is good?					
+1	ཟ་ཁང་	NOUN	z'a khang	restaurent	
+2	ག་འདི་	ADJ	g'a di	which	
+3	འདི་	DET	di	this	
+4	ལེགས་པས་	ADJ	le pe	good	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 259					
+#text = ཡུལ་ འདི་ན་ ཟམ་ ཞིམ་དྲགས་ ཐོབ་པས།					
+#trans = This place has yummy food.					
+1	ཡུལ་	NOUN	ü	place	
+2	འདི་ན་	DET+LOC	di na	here	
+3	ཟམ་	NOUN	z'am	meal	
+4	ཞིམ་དྲགས་	ADJ	zh'im trak	testy	
+5	ཐོབ་པས།	MOD	thop pe	can get	
+					
+#sentence id = 260					
+#text = ལྷན་རྒྱས་ བཞེས་ཐུག་ བཞེས་པོ་ གནང་ཤད་ ལགས།					
+#trans = Do you want to eat noodles?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	བཞེས་ཐུག་	NOUN	zhe thuk	porridge (honorific)	
+3	བཞེས་པོ་	VERB	zh'e po	eaten (honorific)	
+4	གནང་ཤད་	AUX+she	nang she	will do	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 261					
+#text = ང་ཅག་ གན་ མངག་ཤད་ ལགས།					
+#trans = What should we order?					
+1	ང་ཅག་	PRON	nga cak	we	
+2	གན་	NOUN	gan	what	
+3	མངག་ཤད་	VERB+she	ngak she	order	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 262					
+#text = ཡུལ་ འདི་ན་ ཕྱི་རྒྱལ་གྱི་ བག་ལེབ་ བཙོང་ག།					
+#trans = Does this place sell burgers?					
+1	ཡུལ་	NOUN	ü	place	
+2	འདི་ན་	ADV	di na	here	
+3	ཕྱི་རྒྱལ་གྱི་	NOUN+POSS	chi gyê g'yi	foreign's	
+4	བག་ལེབ་	NOUN	b'â lep	bread	
+5	བཙོང་ག།	VERB+Q	tsong ga	can I sell? sell/get	
+					
+#sentence id = 263					
+#text = ཧེ་ལོ། ཀ་ ཞལ་གསུང་བོ་ གནང་བདོ་ ལགས།					
+#trans = Hello! Who is speaking?					
+1	ཧེ་ལོ།	INTJ	he lö	hello	
+2	ཀ་	NOUN	ka/kâ	who	
+3	ཞལ་གསུང་བོ་	VERB+INF	zh'e süng bo	talk (honorific)	
+4	གནང་བདོ་	AUX+do	hna do	doing	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 264					
+#text = ང་ རྒྱལ་མཚན་ ཨིན་ལགས།					
+#trans = This is Gyaltsen speaking.					
+1	ང་	PRON	nga	I	
+2	རྒྱལ་མཚན་	PROPN	gyal tshen	name, victiorius banner	
+3	ཨིན་ལགས།	AUX+HON	ing la	be	
+					
+#sentence id = 265					
+#text = ང་ ལྷན་རྒྱས་ལོ་ སྙིང་ སངས་སངས་ མི་ཐོས་པས་ ལགས།					
+#trans = I am not hearing you clearly.					
+1	ང་	PRON	nga	I	
+2	ལྷན་རྒྱས་ལོ་	PRON+DAT	lhan gye lo	for you (honorific)	
+3	སྙིང་	NOUN	hnying	heart, mind	
+4	སངས་སངས་	ADV	sang sang	clearly	
+5	མི་ཐོས་པས་	NEG+VERB	me thö pe	can't hear you	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 266					
+#text = ལྷན་རྒྱས་ ཀ་མཉམ་པོ་ ཞལ་གསུང་བོ་ གནང་ཤད་ ལགས།					
+#trans = To whom do you want to speak?					
+1	ལྷན་རྒྱས་	PRON	lhan gye	you (honorific)	
+2	ཀ་མཉམ་པོ་	NOUN+CCONJ	kä 'nyampu	with whom	
+3	ཞལ་གསུང་བོ་	VERB	zh'e süng bo	talk (honorific)	
+4	གནང་ཤད་	AUX+she	nang she	will do	
+5	ལགས།	HON	lâ		
+					
+#sentence id = 267					
+#text = ང་ འཇིགས་མེད་ལགས་ མཉམ་པོ་ གྱོས་ རྐྱབས་ཤད་ ཡོད་ལགས།					
+#trans = I want to talk with Jigmee.					
+1	ང་	PRON	nga	I	
+2	འཇིགས་མེད་ལགས་	PROPN+HON	jik mî la	Jigmee	
+3	མཉམ་པོ་	ADV	nyam pü	together	
+4	གྱོས་	NOUN	g'yö	conversation, talk	
+5	རྐྱབས་ཤད་	VERB+she	kyab sh'e	do	
+6	ཡོད་ལགས།	AUX+HON	yô la	have	
+					
+#sentence id = 268					
+#text = ཤུལ་ཅིག་ དགུག་པོ་ གནང་ ལགས།					
+#trans = Please hold on the line.					
+1	ཤུལ་ཅིག་	ADJ	shû ci	little	
+2	དགུག་པོ་	VERB	gua' po	wait	
+3	གནང་	AUXHON	hnang	give (honorific)	
+4	ལགས།	HON	lâ		
+					
+#sentence id = 269					
+#text = ད་རྒྱུ་སྟི་ འཇིགས་མེད་ལོ་ བོས་ ཤད་ ཨིན།					
+#trans = I will go and call Jigmee.					
+1	ད་རྒྱུ་སྟི་	VERB+CCONJ	d'a gyü te	will go and	
+2	འཇིགས་མེད་ལོ་	PROPN+DAT	jik mî lo	for Jigmee	
+3	བོས་	VERB	pö	call	
+4	ཤད་	she	she	a verbal suffix	
+5	ཨིན།	AUX	ing be	be	
+					
+#sentence id = 270					
+#text = ཁོང་ལོ་ ཞལ་པར་ ཡོད་སར་ བོས་པོ་ གནང་།					
+#trans = Please call him to the phone.					
+1	ཁོང་ལོ་	PRON+DAT	khô lo	for them	
+2	ཞལ་པར་	NOUN	zhe par	phone (honorific)	
+3	ཡོད་སར་	AUX+REL	yô sä	where it exist	
+4	བོས་པོ་	VERB	b'ö po	call up	
+5	གནང་།	AUX	nang	give	
+					
+#sentence id = 271					
+#text = ཁོང་ ད་ལྟ་ ན་ མི་འདུག་ལགས།					
+#trans = He is not here now.					
+1	ཁོང་	PRON	khô	he	
+2	ད་ལྟ་	ADV	d'a ta	now	
+3	ན་	ADV	n(a?)â	here	
+4	མི་འདུག་ལགས།	NEG+AUX+HON	min duk la	is it not there	
+					
+#sentence id = 272					
+#text = ཁོང་ ཆུ་ཚོད་ གཅིག་ རྒྱབ་ལས་ ལོག་ བྱོན་བོ་ གནང་ཤད་ སྦད་ལགས།					
+#trans = He will be back in an hour.					
+1	ཁོང་	PRON	khô	he	
+2	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
+3	གཅིག་	NUM	ci	one	
+4	རྒྱབ་ལས་	PREP	gyap le	behind	
+5	ལོག་		lok	going back, return	
+6	བྱོན་བོ་	VERB+INF	j'ön bo	come	
+7	གནང་ཤད་	AUXHON+she	nang she	will do	
+8	སྦད་ལགས།	AUX+HON	bed la	be	
+					
+#sentence id = 273					
+#text = ཁོང་ལོ་ སྙན་གསེས་ གཅིག་ གནང་བོ་ གནང་ལགས།					
+#trans = Please give him a message.					
+1	ཁོང་ལོ་	PRON+DAT	khô lo	for him	
+2	སྙན་གསེས་	NOUN	hnyen se	message (honorific)	
+3	གཅིག་	NUM	ci	one	
+4	གནང་བོ་	VERB	hnâ bo	give (honorific)	
+5	གནང་ལགས།	AUXHON+HON	nang la	give (honorific)	
+					
+#sentence id = 274					
+#text = ལགས། སྙན་གསེས་ འདི་ གན་ ཡོད་པོ་ ལགས།					
+#trans = Yes, what is the message?					
+1	ལགས།	INTJ	lâ	yes, (when answering call) (honorific)	
+2	སྙན་གསེས་	NOUN	hnyen se	message (honorific)	
+3	འདི་	DET	di	this	
+4	གན་	NOUN	gan	what	
+5	ཡོད་པོ་	AUX+INF	yod' po	have	
+6	ལགས།	HON	lâ		
+					
+#sentence id = 275					
+#text = ང་ལོ་ ཞལ་པར་ གནང་བོ་ གནང་ན་ གསུང་བོ་ གནང་ལགས།					
+#trans = Please tell him to call me.					
+1	ང་ལོ་	PRON+DAT	nga lo	for me	
+2	ཞལ་པར་	NOUN	zhe par	phone (honorific)	
+3	གནང་བོ་	VERB+INF	hnâ bo	do (honorific)	
+4	གནང་ན་	AUX+SUG	hnang na	please give	
+5	གསུང་བོ་	VERB+INF	sung bö	say (honorific)	
+6	གནང་ལགས།	AUXHON	nang la	do (honorific)	

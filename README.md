@@ -11,5 +11,5 @@ This repository contains materials related to the Drenjongke language in Sikkim,
 
       If you use our corpus for academic work, please cite:
       <pre>
-      Ashida, Mana and Lee, Seunghun and Kunzang Namgyal, to appear, <b>Building a Part-of-Speech Tagged Corpus for Drenjongke (Bhutia)</b>
+      Ashida, Mana, Seunghun J. Lee, Kunzang Namgyal will present a paper titled <b>"Building a Part-of-Speech Tagged Corpus for Drenjongke (Bhutia)"</b> at the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing [AACL-IJCNLP 2020]
       </pre>

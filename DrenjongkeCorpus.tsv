@@ -108,7 +108,7 @@
 1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
 2	མཐོ་རིམ་	ADJ	tho rim	higher	
 3	སློབ་གྲྭ་	NOUN	lob gr'a	school	
-4	མྱོང་པོ་	VERB+INF	nyô po	finish(honorific)	
+4	མྱོ༹ང་པོ་	VERB+INF	nyô po	finish(honorific)	
 5	ལགས།	HON	lâ		
 					
 #sentence id = 14					
@@ -544,7 +544,7 @@
 #trans = Finish this work by today.					
 1	ད་རིང་རང་	ADJ+REFL	d'a ring ra	today itself	
 2	གཡོག་འདི་	NOUN+DET	yö di	this work	
-3	མྱོང་པོ་	VERB	nyô po	finish	
+3	མྱོ༹ང་པོ་	VERB	nyô po	finish	
 4	གནང་།	AUXHON	nang	give	
 					
 #sentence id = 62					
@@ -1706,7 +1706,7 @@
 2	ཚོགས་འདུ་	NOUN	tshö du	meeting	
 3	ཆུ་ཚོད་	NOUN	chu tshod	clock, hour	
 4	ག་ཚོད་ལོ་	ADJ	g'a tshod lo	how much?	
-5	མྱོང་ཤད་ལགས།	VERB+she+HON	nyö she la	will finish	
+5	མྱོ༹ང་ཤད་ལགས།	VERB+she+HON	nyö she la	will finish	
 					
 #sentence id = 191					
 #text = ཐོ་རངས་ཀྱི་ ཉིན་མིའི་ ཛོའུ་ཀི་ དོན་ལས་ གན་ འབག་  འོང་ཤད།					
@@ -1841,7 +1841,7 @@
 #trans = How much did you complete?					
 1	ལྷན་རྒྱས་ཀྱིས་	PRON+POSS	lhan gye kyi	by you (honorific)	
 2	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
-3	མྱོང་པོ་	VERB+INF	nyô po	finish	
+3	མྱོ༹ང་པོ་	VERB+INF	nyô po	finish	
 4	གནང་བོ་	AUXHON+INF	hnâ bo	given (honorific)	
 5	ལགས།	HON	lâ		
 					

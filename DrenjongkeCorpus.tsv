@@ -103,7 +103,7 @@
 4	ཨིན་ལགས།	AUX+HON	ing la	be	
 					
 #sentence id = 13					
-#text = ལྷན་རྒྱས་ཀྱི་ མཐོ་རིམ་ སློབ་གྲྭ་ མྱོང་པོ་ ལགས།					
+#text = ལྷན་རྒྱས་ཀྱི་ མཐོ་རིམ་ སློབ་གྲྭ་ མྱོ༹ང་པོ་ ལགས།					
 #trans = Did you finish your college?					
 1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
 2	མཐོ་རིམ་	ADJ	tho rim	higher	
@@ -540,7 +540,7 @@
 11	ཡོད།	AUX	yô	have	
 					
 #sentence id = 61					
-#text = ད་རིང་རང་ གཡོག་འདི་ མྱོང་པོ་ གནང་།					
+#text = ད་རིང་རང་ གཡོག་འདི་ མྱོ༹ང་པོ་ གནང་།					
 #trans = Finish this work by today.					
 1	ད་རིང་རང་	ADJ+REFL	d'a ring ra	today itself	
 2	གཡོག་འདི་	NOUN+DET	yö di	this work	
@@ -1700,7 +1700,7 @@
 5	གནང་ཤད།	AUXHON+she	hnang she	will do	
 					
 #sentence id = 190					
-#text = ལྷན་རྒྱས་ཀྱི་ ཚོགས་འདུ་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ མྱོང་ཤད་ལགས།					
+#text = ལྷན་རྒྱས་ཀྱི་ ཚོགས་འདུ་ ཆུ་ཚོད་ ག་ཚོད་ལོ་ མྱོ༹ང་ཤད་ལགས།					
 #trans = What time will your meeting get over?					
 1	ལྷན་རྒྱས་ཀྱི་	PRON+POSS	lhan gye kyi	your (honorific)	
 2	ཚོགས་འདུ་	NOUN	tshö du	meeting	
@@ -1837,7 +1837,7 @@
 5	ལགས།	HON	lâ		
 					
 #sentence id = 204					
-#text = ལྷན་རྒྱས་ཀྱིས་ ག་ཚོད་ མྱོང་པོ་ གནང་བོ་ ལགས།					
+#text = ལྷན་རྒྱས་ཀྱིས་ ག་ཚོད་ མྱོ༹ང་པོ་ གནང་བོ་ ལགས།					
 #trans = How much did you complete?					
 1	ལྷན་རྒྱས་ཀྱིས་	PRON+POSS	lhan gye kyi	by you (honorific)	
 2	ག་ཚོད་	ADJ	g'a tsh'ö	how many, how much	
